@@ -1,0 +1,11 @@
+# Site settings
+title: Hardik Patel Blog
+email:
+description: "Thoughts on Computer Science and Finance"
+baseurl: ""
+url: "http://hardikp.github.io"
+twitter_username: hardikp
+github_username:  hardikp
+
+# Build settings
+markdown: kramdown
