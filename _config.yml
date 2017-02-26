@@ -9,3 +9,10 @@ github_username:  hardikp
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
