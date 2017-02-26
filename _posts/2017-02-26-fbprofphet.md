@@ -16,7 +16,7 @@ Time series prediction is one of the most common statistical problems over the l
 [statsmodels](http://www.statsmodels.org/stable/tsa.html) is a great library for the above time series models.
 
 ### Prophet
-Prophet uses [stan]() models for prediction.
+[Prophet](https://github.com/facebookincubator/prophet) is a new tool from Facebook that uses [stan](http://mc-stan.org/) models for prediction.
 
 ### Show me the code!
 ```python
@@ -45,3 +45,6 @@ m.plot(forecast)
 ```
 
 <img src="/assets/prophet.png">
+
+### Notebook
+[Here is a link](https://github.com/hardikp/notebooks/blob/master/fbprophet.ipynb) to the notebook I added for the same example.
