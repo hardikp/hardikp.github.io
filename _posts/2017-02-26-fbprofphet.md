@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Prophet - Time series prediction"
-excerpt: ""
+excerpt: "Predicting daily (and intraday) volume is a classic time series problem in finance. We try to use the Prophet library for this task."
 date:   2017-02-26 23:00:00
 mathjax: false
 ---
