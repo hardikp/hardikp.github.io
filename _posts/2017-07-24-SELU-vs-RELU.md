@@ -9,7 +9,7 @@ mathjax: false
 
 ### Background on SELU
 
-For some reason, normalized outputs are really helpful in stabilizing the training process. That's the main reason behind the popularity of [`BatchNormalization`](https://arxiv.org/abs/1502.03167). [`SELU`](https://arxiv.org/abs/1706.02515) is a way to output the normalized activations to the next layer.
+Normalized outputs seem to be really helpful in stabilizing the training process. That's the main reason behind the popularity of [`BatchNormalization`](https://arxiv.org/abs/1502.03167). [`SELU`](https://arxiv.org/abs/1706.02515) is a way to output the normalized activations to the next layer.
 
 The overall function is really simple:
 <img src="/assets/selu.png">
@@ -38,20 +38,25 @@ def selu(x):
 
 ### SNLI dataset
 
-[SNLI dataset](https://nlp.stanford.edu/projects/snli/) is a collection of 570k english sentence pairs manually labeled as either:
-- entailment - "A soccer game with multiple males playing." and "Some men are playing a sport."
-- contradiction - "A man inspects the uniform of a figure in some East Asian country." and "The man is sleeping."
-- neutral - "A smiling costumed woman is holding an umbrella." and "A happy woman in a fairy costume holds an umbrella."
+[SNLI dataset](https://nlp.stanford.edu/projects/snli/) is a collection of 570k english sentence pairs. The task is to classify each pair as either:
+- **entailment** - "A soccer game with multiple males playing." and "Some men are playing a sport."
+- **contradiction** - "A man inspects the uniform of a figure in some East Asian country." and "The man is sleeping."
+- **neutral** - "A smiling costumed woman is holding an umbrella." and "A happy woman in a fairy costume holds an umbrella."
 
 ### SELU vs RELU results
 
 Code for this excercise is available in [this repo](https://github.com/hardikp/selu_snli).
 
-<img src="/assets/val_acc.png">
-<img src="/assets/val_loss.png">
+<img src="/assets/selu_vs_relu_with_batchnorm.png">
 
-`RELU` seems to be doing a much better job than `SELU` for the default configuration. However, there could be multiple reasons for this behavior:
-- `BatchNormalization` is used in the current model.
+`RELU` is clearly converging much faster than `SELU`. My first was to remove the `BatchNormalization` and do the same comparison. The following graph shows the comparison after removing the BatchNorm components.
+
+<img src="/assets/selu_vs_relu_without_batchnorm.png">
+
+Still, `RELU` seems to be doing a much better job than `SELU` for the default configuration.
+
+However, there could still be multiple reasons for this behavior:
 - `SELU` authors recommend a specific initialization scheme for it to be effective.
+- The authors also use a slightly different Dropout.
 
 Additionally, `SELU` is a bit more computationally expensive than `RELU`. On a g2.2xlarge EC2 instance, `RELU` model took about 49 seconds to complete an epoch, while `SELU` model took 65 seconds to do the same (33% more).
