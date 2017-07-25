@@ -49,13 +49,17 @@ Code for this excercise is available in [this repo](https://github.com/hardikp/s
 
 <img src="/assets/selu_vs_relu_with_batchnorm.png">
 
-`RELU` is clearly converging much faster than `SELU`. My first was to remove the `BatchNormalization` and do the same comparison. The following graph shows the comparison after removing the BatchNorm components.
+`RELU` is clearly converging much faster than `SELU`. My first was to remove the `BatchNormalization` and do the same comparison. The following graph shows the comparison after **removing the BatchNorm components**.
 
 <img src="/assets/selu_vs_relu_without_batchnorm.png">
 
 Still, `RELU` seems to be doing a much better job than `SELU` for the default configuration.
 
-However, there could still be multiple reasons for this behavior:
+This behavior remains more or less the same after iterating through hyperparameters. The following graph is for one of the hyperparameter configurations.
+
+<img src="/assets/selu_vs_relu_using_adam.png">
+
+To be fair, it is still possible that `SELU` is better in some configurations. Some of the possible reasons are listed below. However, it is clear to me that simply replacing `RELU` with `SELU` isn't going to improve your existing models.
 - `SELU` authors recommend a specific initialization scheme for it to be effective.
 - The authors also use a slightly different Dropout.
 
