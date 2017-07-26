@@ -43,6 +43,42 @@ def selu(x):
 - **contradiction** - "A man inspects the uniform of a figure in some East Asian country." and "The man is sleeping."
 - **neutral** - "A smiling costumed woman is holding an umbrella." and "A happy woman in a fairy costume holds an umbrella."
 
+### Model Architecture
+
+I am using a simple Bag of words model written in keras. The following captures the major components. This code is taken from Stephen Merity's repo [here](https://github.com/Smerity/keras_snli).
+
+```python
+# Embedding layer
+embed = Embedding(VOCAB, EMBED_HIDDEN_SIZE, weights=[embedding_matrix], input_length=MAX_LEN, trainable=False)
+# A dense layer applied over each sequence point
+translate = TimeDistributed(Dense(SENT_HIDDEN_SIZE, activation=ACTIVATION))
+# A layer to sum up the sequence of words
+rnn = keras.layers.core.Lambda(lambda x: K.sum(x, axis=1), output_shape=(SENT_HIDDEN_SIZE, ))
+
+# 2 pairs of input sentences
+premise = Input(shape=(MAX_LEN, ), dtype='int32')
+hypothesis = Input(shape=(MAX_LEN, ), dtype='int32')
+# Get the word embeddings for each of these 2 pairs
+prem = embed(premise)
+hypo = embed(hypothesis)
+# Apply the Dense layer
+prem = translate(prem)
+hypo = translate(hypo)
+# Sum up the sequence
+prem = rnn(prem)
+hypo = rnn(hypo)
+prem = BatchNormalization()(prem)
+hypo = BatchNormalization()(hypo)
+# Combined the 2 sentences
+joint = concatenate([prem, hypo])
+joint = Dropout(DP)(joint)
+# Add Few dense layers in the end
+for i in range(3):
+    joint = Dense(2 * SENT_HIDDEN_SIZE, activation=ACTIVATION, kernel_regularizer=l2(L2)(joint)
+    joint = Dropout(DP)(joint)
+    joint = BatchNormalization()(joint)
+```
+
 ### SELU vs RELU results
 
 Code for this excercise is available in [this repo](https://github.com/hardikp/selu_snli).
