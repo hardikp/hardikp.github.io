@@ -45,7 +45,7 @@ def selu(x):
 
 ### Model Architecture
 
-I am using a simple Bag of words model written in keras. The following captures the major components. This code is taken from Stephen Merity's repo [here](https://github.com/Smerity/keras_snli).
+I am using a simple Bag of words model written in keras. The following python snippet describes the major components. This code is taken from Stephen Merity's repo [here](https://github.com/Smerity/keras_snli).
 
 ```python
 # Embedding layer
