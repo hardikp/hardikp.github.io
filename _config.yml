@@ -3,7 +3,7 @@ title: Hardik Patel
 description: "Thoughts on Computer Science and Finance"
 tagline: ""
 baseurl: ""
-url: "http://hardikp.github.io"
+url: "https://hardikp.github.io"
 twitter_username: hardikp
 github_username:  hardikp
 
@@ -19,6 +19,7 @@ social:
     - https://github.com/hardikp
     - https://keybase.io/hardikp
     - https://medium.com/@hardikp
+    - https://www.instagram.com/hardikp
 
 # Build settings
 markdown: kramdown
