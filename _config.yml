@@ -1,7 +1,7 @@
 # Site settings
 title: Hardik Patel
-email:
 description: "Thoughts on Computer Science and Finance"
+tagline: ""
 baseurl: ""
 url: "http://hardikp.github.io"
 twitter_username: hardikp
@@ -11,8 +11,13 @@ github_username:  hardikp
 markdown: kramdown
 permalink: pretty
 
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+# About/contact
+author:
+  name: Hardik Patel
+  url: http://www.hardikp.com
+  email: hardikp12@gmail.com
