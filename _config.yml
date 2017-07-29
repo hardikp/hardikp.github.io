@@ -7,12 +7,28 @@ url: "http://hardikp.github.io"
 twitter_username: hardikp
 github_username:  hardikp
 
+twitter:
+  username: hardikp
+social:
+  name: Hardik Patel
+  links:
+    - https://twitter.com/hardikp
+    - https://www.facebook.com/hardikp0
+    - https://www.linkedin.com/in/hardikp12
+    - https://plus.google.com/+HardikPatel1
+    - https://github.com/hardikp
+    - https://keybase.io/hardikp
+
 # Build settings
 markdown: kramdown
 permalink: pretty
 
-# Pagination
-plugins: [jekyll-paginate]
+# Plugins:
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Pagination configuration
 paginate: 5
 paginate_path: "page:num"
 
