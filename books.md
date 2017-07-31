@@ -7,7 +7,7 @@ permalink: /books/
 I like to read **non-fiction books**. For me, the objectives for reading books include:
 1. *Satisfying curiosity*
 1. *Understanding the world around us*
-1. *Develop a better world view* - so that I can develop a more rational intuition (which help improve the daily decisions).
+1. *Develop a better world view* - in order to develop a more rational intuition (which helps improve the daily decisions).
 
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
@@ -54,6 +54,9 @@ Most influencial books have been (in no perticular order):
 * A Game of Thrones
 * A Storm of Swords
 * A Feast for Crows (Incomplete)
+
+## 2012
+* Steve Jobs
 
 ## 2011
 * The Lord of the Rings
