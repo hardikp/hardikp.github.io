@@ -9,7 +9,7 @@ mathjax: false
 
 ### Background on SELU
 
-Normalized outputs seem to be really helpful in stabilizing the training process. That's the main reason behind the popularity of [`BatchNormalization`](https://arxiv.org/abs/1502.03167). [`SELU`](https://arxiv.org/abs/1706.02515) is a way to output the normalized activations to the next layer.
+Normalized outputs seem to be really helpful in stabilizing the training process. That's the main reason behind the popularity of [BatchNormalization](https://arxiv.org/abs/1502.03167). [SELU](https://arxiv.org/abs/1706.02515) is a way to output the normalized activations to the next layer.
 
 The overall function is really simple:
 <img src="/assets/selu.png">
@@ -93,10 +93,11 @@ Still, `RELU` seems to be doing a much better job than `SELU` for the default co
 
 This behavior remains more or less the same after iterating through hyperparameters. The following graph is for one of the hyperparameter configurations.
 
-<img src="/assets/selu_vs_relu_using_adam.png">
+<img src="/assets/selu_vs_relu_alpha_dropout.png">
+
+(Edit: I incorporated the suggestion from Dan Ofer below and included the graph with `AlphaDropout`.)
 
 To be fair, it is still possible that `SELU` is better in some configurations. Some of the possible reasons are listed below. However, it is clear to me that simply replacing `RELU` with `SELU` isn't going to improve your existing models.
 - `SELU` authors recommend a specific initialization scheme for it to be effective.
-- The authors also use a slightly different Dropout.
 
 Additionally, `SELU` is a bit more computationally expensive than `RELU`. On a g2.2xlarge EC2 instance, `RELU` model took about 49 seconds to complete an epoch, while `SELU` model took 65 seconds to do the same (33% more).
