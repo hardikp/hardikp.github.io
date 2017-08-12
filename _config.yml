@@ -22,6 +22,7 @@ social:
     - https://www.instagram.com/hardikp
     - https://gitlab.com/hardikp
     - https://www.quora.com/profile/Hardik-Patel-8
+    - https://angel.co/hardikp
 
 # Build settings
 markdown: kramdown
@@ -34,7 +35,7 @@ gems:
 
 # Pagination configuration
 paginate: 5
-paginate_path: "page:num"
+paginate_path: "/blog/page:num/"
 
 # About/contact
 author:
