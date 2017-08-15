@@ -18,6 +18,9 @@ Most influencial books have been (in no perticular order):
 * Behave: The Biology of Humans at Our Best and Worst
 
 ## 2017
+<img src="/assets/books-2017.JPG">
+* The Organized Mind (Audiobook, Ongoing)
+* 1984 (Audiobook, Ongoing)
 * Homo Deus (Ongoing)
 * Behave: The Biology of Humans at Our Best and Worst
 * High Output Management
