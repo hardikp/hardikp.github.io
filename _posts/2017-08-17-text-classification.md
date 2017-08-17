@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Practical Text Classification for Question-Answers"
+title:  "Practical Text Classification for Question Answering"
 excerpt: ""
 date:   2017-08-17 23:00:00
 mathjax: false
