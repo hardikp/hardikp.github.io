@@ -1,17 +1,15 @@
 ---
 layout: post
 comments: true
-title: "Selected Papers on Applying Deep Learning for Stock Prediction"
-excerpt: ""
+title: "Deep Learning for Event-Driven Stock Prediction"
+excerpt: "In this post, I attempt to summarize this paper by Ding et al. This paper proposes a way to use the convolutional
+neural network on the news events for stock direction prediction. The data and the prediction granularity is 1-day."
 date:   2017-08-18 18:00:00
 mathjax: true
 ---
 
-This post summarizes 2 papers/articles that try to predict the stock movement using neural networks:
-* Deep Learning for Event-Driven Stock Prediction by Ding et al. ([pdf](https://www.ijcai.org/Proceedings/15/Papers/329.pdf))
-* Predicting Stock Market Movement with Deep RNNs ([pdf](https://bcourses.berkeley.edu/files/70257274/download))
+This post summarizes the following papers/articles that try to predict the stock movement using neural networks:
 
-Table of Contents:
 * TOC
 {:toc}
 
@@ -82,7 +80,7 @@ that can be used as an input to more concrete machine learning problems in finan
 While the authors have not released any code, there is a github [repo available online](https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction) that takes inspiration from this
 paper - even though the main idea of event embedding is missing in the linked code.
 
-
+{% comment %}
 ## **Predicting Stock Market Movement with Deep RNNs**
 
 I believe this is a project report, rather than a paper.
@@ -122,3 +120,4 @@ The author has put up the code [here](https://github.com/jvpoulos/drnns-predicti
 Given that this was a course project, the quality of the experimentation and the writing is understandably lacking.
 However, it seems this a relatively small datasets lacking the inherent predictability. And SVM seems to be able to
 better utilize whatever predictive power this "processed" dataset (i.e. tf-idf feature vectors) has.
+{% endcomment %}

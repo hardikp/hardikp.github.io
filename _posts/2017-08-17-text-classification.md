@@ -2,7 +2,9 @@
 layout: post
 comments: true
 title:  "Practical Text Classification for Question Answering"
-excerpt: ""
+excerpt: "This post is about using a relatively simple yet powerful text classification model for
+a production question-answer system. Other topics like deployment, testing for out-of-sample texts are
+also discussed - they are often not the sexiest aspects, but it makes sense to discuss them in this post."
 date:   2017-08-17 23:00:00
 mathjax: false
 ---
