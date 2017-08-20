@@ -13,6 +13,6 @@ I received my BS and MS in Computer Science from IIT Kanpur in 2012. I worked in
 Links:
 * I blog about book summaries and other random subjects here - [https://medium.com/@hardikp](https://medium.com/@hardikp)
 * I tweet/retweet sometimes - [https://twitter.com/hardikp](https://twitter.com/hardikp).
-* Github profile - [https://github.com/hardikp](https://github.com/hardikp)
+* [Github](https://github.com/hardikp)
 * [Linkedin](https://www.linkedin.com/in/hardikp12)
-* I used to write answers on [Quora](https://www.quora.com/profile/Hardik-Patel-8).
+* [Quora](https://www.quora.com/profile/Hardik-Patel-8)
