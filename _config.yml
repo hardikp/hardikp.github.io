@@ -1,6 +1,6 @@
 # Site settings
 title: Hardik Patel
-description: "Thoughts on Computer Science and Finance"
+description: "Thoughts on Machine Learning and Finance"
 tagline: ""
 baseurl: ""
 url: "https://hardikp.github.io"
@@ -36,6 +36,8 @@ gems:
 # Pagination configuration
 paginate: 5
 paginate_path: "/blog/page:num/"
+
+future: true
 
 # About/contact
 author:

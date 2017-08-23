@@ -15,13 +15,13 @@ This post summarizes the following papers/articles that try to predict the stock
 
 ## **Deep Learning for Event-Driven Stock Prediction**
 
-### Summary
+### <span style="color:#e08d60">Summary</span>
 The aim is to be able to predict the price movement using long-term and short-term events, as reported in the news.
 It is framed as a classification problem. The approach is to first learn event embeddings from the news events.
 Embeddings for long-term and short-term events are then considered together in a feed-forward network to predict the
 final class.
 
-### Dataset
+### <span style="color:#e08d60">Dataset</span>
 They gathered about 10 million news events from Reuters and Bloomberg with timestamps ranging from Oct 2006 to Nov 2013.
 
 Each event has the form **$$E = (O_1, P, O_2)$$**, where $$P$$ is the action, $$O_1$$ is the actor and $$O_2$$
@@ -31,7 +31,7 @@ Action is _acquires_ and the Object is _Nest_.
 
 <img src="/assets/stocks-dl-papers-1/dataset1.png" style="width: 500px;">
 
-### Event Embeddings
+### <span style="color:#e08d60">Event Embeddings</span>
 
 <img src="/assets/stocks-dl-papers-1/event_embeddings.png" style="width: 400px;">
 
@@ -45,7 +45,7 @@ $$R_1 = f(O_1^TT_1^{[1:k]}P + W\begin{bmatrix}
 
 In the second step, $$R_1$$ and $$R_2$$ are combined into the event embedding vector.
 
-### Model Description
+### <span style="color:#e08d60">Model Description</span>
 
 The news events are grouped into 3 categories:
 * **long-term events**: Events over the past month
@@ -63,7 +63,7 @@ This feature vector is fed into a feed-forward neural network with one hidden la
 represented as:
 $$y_{cls} = f(net_{cls}) = \sigma(W_3^T \cdot Y)$$ and $$Y = \sigma(W_2^T \cdot V^C)$$.
 
-### Results
+### <span style="color:#e08d60">Results</span>
 <img src="/assets/stocks-dl-papers-1/results1.png" style="width: 400px;">
 
 * **WB-NN**: word embeddings input and standard neural network prediction model
@@ -72,7 +72,7 @@ $$y_{cls} = f(net_{cls}) = \sigma(W_3^T \cdot Y)$$ and $$Y = \sigma(W_2^T \cdot 
 * **EB-NN**: event embeddings input and standard neural network prediction model
 * **EB-CNN**: event embeddings input and convolutional neural network prediction model
 
-### Comments
+### <span style="color:#e08d60">Comments</span>
 
 The event embedding aspect of the paper seems promising. It looks like a nice structured way to represent the events
 that can be used as an input to more concrete machine learning problems in finance.
