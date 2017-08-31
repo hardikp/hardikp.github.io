@@ -96,8 +96,14 @@ $$P(\mathbf{y} = y | \mathbf{x} = x) = \frac{P(\mathbf{y} = y, \mathbf{x} = x)}{
 $$P(a,b,c) = P(a|b,c)P(b|c)P(c)$$
 
 ### Independence and Conditional Independence
+Two random variables $$\mathbf{x}$$ and $$\mathbf{y}$$ are **independent** if their probability distribution can be expressed as a product of two factors.
+
+$$\forall x\in\textbf{x},y\in\textbf{y}, p(\textbf{x}=x, \textbf{y}=y) = p(\textbf{x}=x)p(\textbf{y}=y)$$
 
 ### Expectation, Variance and Covariance
+**Expected value** of a function $$f(x)$$ over the random variable $$\textbf{x}$$ is defined as:
+
+$$E_{x \sim p}[f(x)] = \int p(x)f(x)dx$$
 
 ## Bayes' Rule
 
