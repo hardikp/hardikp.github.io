@@ -9,12 +9,15 @@ mathjax: true
 {:toc}
 
 ## Discrete Random Variables (RV) and Probability Mass Function (PMF)
+**Probability Mass Function(PMF) $$P$$** maps from a state of a random variable to the **probability** of that random variable taking on that state.
 * Domain of $$P$$ is the set of all possible events: $$\Omega$$
 * Probabilities range from 0 to 1. $$\forall{x}\in\mathbf{x}, 0 \le P(x) \le 1$$
 * Probabilities sum up to 1. $$\sum_{x \in \mathbf{x}}P(x) = 1$$
-* Example, a **uniform distribution** with $$k$$ different states. $$P(\mathbf{x}=x_i) = \frac{1}{k}$$. In a coin toss, $$k$$ is 2.
 
 ### Discrete Uniform Distribution
+
+$$P(\mathbf{x}=x_i) = \frac{1}{k}$$
+
 ```python
 import scipy.stats as stats
 
@@ -64,9 +67,10 @@ stats.poisson.pmf(a, lambda_)
 ```
 
 ## Continuous Random Variables and Probability Density Functions (PDF)
-* Domain of $$p$$ is the set of all possible events: $$\Omega$$
-* Function $$p$$ is not a probability here. $$\forall{x}\in\mathbf{x}, p(x) \ge 0$$
-* $$p(x)\delta{x}$$ represents the probability of landing inside $$\delta{x}$$ sized region. $$\int p(x)dx = 1$$ 
+We describe continuous random variables using **Probabiliy Density Function(PDF) $$p$$** instead of probability mass function.
+* It's important to note that $$p(x)$$ is not probability. $$p(x)$$ is the probability density.
+* Densities are positive. $$\forall{x}\in\mathbf{x}, p(x) \ge 0$$
+* $$p(x)\delta{x}$$ represents the probability of landing inside $$\delta{x}$$ sized region. Since $$p(x)\delta{x}$$ is the probability, it should integrate to 1. $$\int p(x)dx = 1$$ 
 * Example: If a random variable $$\mathbf{x}$$ is represented by the uniform distribution that takes values from real value $$a$$ to real value $$b$$, it can be represented as $$\mathbf{x} \sim U(a, b)$$.
 
 ### Uniform Distribution
@@ -78,10 +82,12 @@ stats.poisson.pmf(a, lambda_)
 ## Other probability concepts
 
 ### Marginal Probability
+Sometimes we know the probability distribution over a set of variables and we want to know the probability distribution over just a subset of them. The probability distribution over the subset is known as the **marginal probability** distribution.
 
 $$p(x) = \int p(x, y)dy$$
 
 ### Considitional Probability
+In many cases, we are interested in the probability of some event, given that some other event has happened. This is called a **conditional probability**.
 
 $$P(\mathbf{y} = y | \mathbf{x} = x) = \frac{P(\mathbf{y} = y, \mathbf{x} = x)}{P(\mathbf{x} = x)}$$
 
@@ -96,10 +102,6 @@ $$P(a,b,c) = P(a|b,c)P(b|c)P(c)$$
 ## Bayes' Rule
 
 $$P(x|y) = \frac{P(x)P(y|x)}{P(y)}$$
-
-## PyMC3 basics
-
-## Edward basics
 
 ## Resources
 * [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
