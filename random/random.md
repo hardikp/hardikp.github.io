@@ -1,6 +1,6 @@
 ---
 layout: simple_post
-title: Misc Posts
+title: Misc
 permalink: /random/
 ---
 
