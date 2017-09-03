@@ -19,14 +19,28 @@ mathjax: true
 $$P(\mathbf{x}=x_i) = \frac{1}{k}$$
 
 ```python
+import matplotlib.pyplot as plt
+import numpy as np
 import scipy.stats as stats
+import seaborn as sns
+sns.set()
 
-# Discrete Uniform distribution
-uniform = stats.randint
-low, high = 0, 5
-# Sample from the uniform distribution
-samples = uniform.rvs(low, high, size=10)
+# Discrete Uniform distributions
+uniform1 = stats.randint(low=3, high=8)
+uniform2 = stats.randint(low=4, high=12)
+
+# Plot the PMF function
+a = np.arange(15)
+plt.xticks(a + 0.4, a)
+plt.bar(a, uniform1.pmf(a), color='#348ABD', edgecolor='#348ABD', alpha=0.60, lw='3', label='low=3, high=8')
+plt.bar(a, uniform2.pmf(a), color='#A60628', edgecolor='#A60628', alpha=0.60, lw='3', label='low=4, high=12')
+plt.ylim(0, 0.4)
+plt.xlabel('Events')
+plt.ylabel('Probability of an event')
+plt.title('PMF $P(x)$ for Discrete Uniform Distribution')
+plt.legend()
 ```
+<img src="/assets/probability/discrete_uniform_pmf.png">
 
 ### Bernoulli Distribution
 
