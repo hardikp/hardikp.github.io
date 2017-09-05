@@ -9,7 +9,7 @@ mathjax: true
 {:toc}
 
 ## Discrete Random Variables (RV) and Probability Mass Function (PMF)
-**Probability Mass Function(PMF) $$P$$** maps from a state of a random variable to the **probability** of that random variable taking on that state.
+**Probability Mass Function(PMF) $$P$$** maps a state of a random variable to the **probability** of that random variable taking on that state.
 * Domain of $$P$$ is the set of all possible events: $$\Omega$$
 * Probabilities range from 0 to 1. $$\forall{x}\in\mathbf{x}, 0 \le P(x) \le 1$$
 * Probabilities sum up to 1. $$\sum_{x \in \mathbf{x}}P(x) = 1$$

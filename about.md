@@ -16,3 +16,4 @@ Links:
 * [Github](https://github.com/hardikp)
 * [Linkedin](https://www.linkedin.com/in/hardikp12)
 * [Quora](https://www.quora.com/profile/Hardik-Patel-8)
+* [SSH Keys](https://github.com/hardikp.keys). [GPG](https://keybase.io/hardikp).

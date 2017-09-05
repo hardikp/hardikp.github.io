@@ -12,16 +12,11 @@ I like to read **non-fiction books**. For me, the objectives for reading books i
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
 
-Most influencial books have been (in no perticular order):
-* My Experiments With Truth
-* Thinking Fast and Slow
-* Behave: The Biology of Humans at Our Best and Worst
-
 ## 2017
 <img src="/assets/books-2017.JPG">
-* The Organized Mind (Audiobook, Ongoing)
 * 1984 (Audiobook, Ongoing)
 * Homo Deus (Ongoing)
+* The Organized Mind (Audiobook)
 * Behave: The Biology of Humans at Our Best and Worst
 * High Output Management
 * The Innovator's Dilemma (~ 75% remaining)
