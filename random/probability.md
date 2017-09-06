@@ -44,21 +44,66 @@ plt.legend()
 
 ### Bernoulli Distribution
 
-$$P(\mathbf{x} = 1) = p, 0 \le p \le 1$$
+$$P(x) = 
+\begin{cases}
+1-p, & \text{if $k=0$} \\
+p, & \text{if $k=1$}
+\end{cases}$$
 
 $$p$$ is the parameter of the distribution. Expected value of the distribution is $$p$$.
 
 ```python
-from scipy.stats import bernoulli
+import matplotlib.pyplot as plt
+import numpy as np
+import scipy.stats as stats
+import seaborn as sns
+sns.set()
 
-p = 0.4
-rv = bernoulli(p)
-samples = rv.rvs(10)
+# Bernoulli distributions
+bernoulli1 = stats.bernoulli(p=0.25)
+bernoulli2 = stats.bernoulli(p=0.5)
+
+# Plot the PMF function
+a = np.arange(2)
+plt.xticks(a + 0.4, a)
+plt.bar(a, bernoulli1.pmf(a), color='#348ABD', edgecolor='#348ABD', alpha=0.60, lw='3', label='$p=0.25$')
+plt.bar(a, bernoulli2.pmf(a), color='#A60628', edgecolor='#A60628', alpha=0.60, lw='3', label='$p=0.5$')
+plt.xlim(-1, 4)
+plt.ylim(0, 1)
+plt.xlabel('Events')
+plt.ylabel('Probability of an event')
+plt.title('PMF $P(x)$ for Bernoulli Distribution')
+plt.legend()
 ```
+<img src="/assets/probability/bernoulli_pmf.png">
 
 ### Binomial Distribution
 
-$$P(\mathbf{x} = k) = {n \choose k}p^kq^{n-k}, k \in {0, 1, 2,..n}$$
+$$P(\mathbf{x} = k) = {n \choose k}p^kq^{n-k}, \text{where } k \in \{0, 1, 2,..n\}$$
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import scipy.stats as stats
+import seaborn as sns
+sns.set()
+
+# Binomial distributions
+binomial1 = stats.binom(15, 0.75)
+binomial2 = stats.binom(5, 0.5)
+
+# Plot the PMF function
+a = np.arange(-2, 20)
+plt.xticks(a + 0.4, a)
+plt.bar(a, binomial1.pmf(a), color='#348ABD', edgecolor='#348ABD', alpha=0.60, lw='3', label='$n=15, p=0.75$')
+plt.bar(a, binomial2.pmf(a), color='#A60628', edgecolor='#A60628', alpha=0.60, lw='3', label='$n=5, p=0.5$')
+plt.ylim(0, 0.5)
+plt.xlabel('Events')
+plt.ylabel('Probability of an event')
+plt.title('PMF $P(x)$ for Binomial Distribution')
+plt.legend()
+```
+<img src="/assets/probability/binomial_pmf.png">
 
 ### Poisson Distribution
 Random Variable $$\mathbf{z}$$ is Poisson-distributed if:
@@ -71,14 +116,28 @@ Expected value of the distribution $$\mathbf{z}$$ is:
 $$E[\mathbf{z}] = \lambda$$
 
 ```python
+import matplotlib.pyplot as plt
 import numpy as np
 import scipy.stats as stats
+import seaborn as sns
+sns.set()
 
-# Poisson distribution
-a = np.arange(10)
-lambda_ = 1.5
-stats.poisson.pmf(a, lambda_)
+# Poisson distributions
+poisson1 = stats.poisson(0.75)
+poisson2 = stats.poisson(6.5)
+
+# Plot the PMF function
+a = np.arange(-2, 10)
+plt.xticks(a + 0.4, a)
+plt.bar(a, poisson1.pmf(a), color='#348ABD', edgecolor='#348ABD', alpha=0.60, lw='3', label='$\lambda=0.75$')
+plt.bar(a, poisson2.pmf(a), color='#A60628', edgecolor='#A60628', alpha=0.60, lw='3', label='$\lambda=6.5$')
+plt.ylim(0, 0.5)
+plt.xlabel('Events')
+plt.ylabel('Probability of an event')
+plt.title('PMF $P(x)$ for Poisson Distribution')
+plt.legend()
 ```
+<img src="/assets/probability/poisson_pmf.png">
 
 ## Continuous Random Variables and Probability Density Functions (PDF)
 We describe continuous random variables using **Probabiliy Density Function(PDF) $$p$$** instead of probability mass function.
