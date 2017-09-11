@@ -22,3 +22,4 @@ permalink: /travel/
 * Cancun, Mexico - Feb 2017
 * Japan (Tokyo and Kyoto) - March 30 to April 2, 2017
 * Banff National Park - July 1 to July 4, 2017
+* Chicago - Aug 26 and Aug 27, 2017
