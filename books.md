@@ -29,7 +29,7 @@ a lot more information.
 * Pitch Anything
 
 ## 2016
-* The Vital Question - [Notes](https://medium.com/@hardikp/notes-from-the-book-the-vital-question-ee83b3f69195)
+* The Vital Question - [Notes](/books/vital_question)
 * The Checklist Manifesto
 * Thinking Fast and Slow
 * The Emperor of All Maladies
