@@ -148,9 +148,15 @@ We describe continuous random variables using **Probabiliy Density Function(PDF)
 
 ### Uniform Distribution
 
+$$p(x) = \frac{1}{b - a}$$
+
 ### Exponential Distribution
 
+$$p(x) = e^{-x}, \text{where } x >= 0$$
+
 ### Normal Distribution
+
+$$p(x) = \frac{e^{-x^2/2}}{\sqrt{2\pi}}$$
 
 ## Other probability concepts
 

@@ -7,7 +7,7 @@ permalink: /books/
 I like to read **non-fiction books**. For me, the objectives for reading books include:
 1. *Satisfying curiosity*
 1. *Understanding the world around us*
-1. *Develop a better world view* - in order to develop a more rational intuition (which helps improve the daily decisions).
+1. *Develop a better world view* - to help develop a more rational intuition (which helps improve the daily decisions).
 
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
@@ -16,7 +16,7 @@ a lot more information.
 <img src="/assets/books-2017.JPG">
 * 1984 (Audiobook, Ongoing)
 * Homo Deus (Ongoing)
-* The Organized Mind (Audiobook)
+* The Organized Mind (Audiobook) - [Notes](/books/organized_mind)
 * Behave: The Biology of Humans at Our Best and Worst
 * High Output Management
 * The Innovator's Dilemma (~ 75% remaining)
@@ -24,12 +24,12 @@ a lot more information.
 * India After Gandhi
 * Elon Musk
 * Sapiens
-* Why Nations Fail - [Book Notes](https://medium.com/@hardikp/book-notes-why-nations-fail-d970e83c5629)
+* Why Nations Fail - [Notes](/books/why_nations_fail)
 * Modern Romance
 * Pitch Anything
 
 ## 2016
-* The Vital Question - [Book Notes](https://medium.com/@hardikp/notes-from-the-book-the-vital-question-ee83b3f69195)
+* The Vital Question - [Notes](https://medium.com/@hardikp/notes-from-the-book-the-vital-question-ee83b3f69195)
 * The Checklist Manifesto
 * Thinking Fast and Slow
 * The Emperor of All Maladies
