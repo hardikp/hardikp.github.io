@@ -35,7 +35,7 @@ gems:
 
 # Pagination configuration
 paginate: 5
-paginate_path: "/blog/page:num/"
+# paginate_path: "/blog/page:num/"
 
 future: true
 
