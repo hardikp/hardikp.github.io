@@ -78,6 +78,7 @@ plt.legend()
 <img src="/assets/probability/bernoulli_pmf.png">
 
 ### Binomial Distribution
+A binomial distribution is parameterized by $$n$$ and $$p$$. It models the number of successes in a sequence of $$n$$ independent experiments, each with success probability $$p$$. For $$n=1$$, the binomial distribution is a Bernoulli distribution.
 
 $$P(\mathbf{x} = k) = {n \choose k}p^kq^{n-k}, \text{where } k \in \{0, 1, 2,..n\}$$
 
