@@ -1,20 +1,12 @@
 ---
 layout: post
 comments: true
-title: "Deep learning networks for stock market analysis and prediction"
+title: "[Paper Summary] Deep learning networks for stock market analysis and prediction"
 excerpt: "In this paper, Deep learning techniques are applied to the financial market data directly rather than using any text/alternative data sources. This has been a relatively tricky dataset for any non-linear machine learning technique because of the extremely high noise-to-signal ratio. The authors use a relatively high-frequency dataset sampled at every 5 minutes. They consider 38 stocks from Korea KOSPI."
 date:   2017-08-22 18:00:00
 mathjax: true
 ---
-
-This post summarizes the following paper that try to predict the stock movement using neural networks:
-* [Deep learning networks for stock market analysis and prediction](http://download.xuebalib.com/xuebalib.com.32109.pdf): Methodology, data representations, and case studies
-
-Table of Contents
-* TOC
-{:toc}
-
-## **Deep learning networks for stock market analysis and prediction**
+Here is the [link](http://download.xuebalib.com/xuebalib.com.32109.pdf) to the paper.
 
 ### <span style="color:#e08d60">Summary</span>
 The authors consider 2 main problems:

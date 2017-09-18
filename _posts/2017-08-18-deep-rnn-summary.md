@@ -1,19 +1,13 @@
 ---
 layout: post
 comments: true
-title: "Deep Learning for Event-Driven Stock Prediction"
+title: "[Paper Summary] Deep Learning for Event-Driven Stock Prediction"
 excerpt: "In this post, I attempt to summarize this paper by Ding et al. This paper proposes a way to use the convolutional
 neural network on the news events for stock direction prediction. The data and the prediction granularity is 1-day."
 date:   2017-08-18 18:00:00
 mathjax: true
 ---
-
-This post summarizes the following papers/articles that try to predict the stock movement using neural networks:
-
-* TOC
-{:toc}
-
-## **Deep Learning for Event-Driven Stock Prediction**
+Here is the [link](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) to the paper.
 
 ### <span style="color:#e08d60">Summary</span>
 The aim is to be able to predict the price movement using long-term and short-term events, as reported in the news.
