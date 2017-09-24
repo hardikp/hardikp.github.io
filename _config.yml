@@ -35,7 +35,7 @@ gems:
   - jekyll-seo-tag
 
 # Pagination configuration
-paginate: 5
+paginate: 10
 # paginate_path: "/blog/page:num/"
 
 future: true
