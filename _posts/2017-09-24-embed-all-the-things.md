@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "[Paper Summary] StarSpace: Embed All The Things!"
 excerpt: "This paper describes a way to generate embeddings for various tasks. The algorithm is general enough which enables it to achieve strong results in very diverse tasks."
-date:   2017-09-20 18:00:00
+date:   2017-09-24 18:00:00
 mathjax: true
 ---
 Here is the [link](https://arxiv.org/abs/1709.03856) to the paper. C++ code for this available [here](https://github.com/facebookresearch/Starspace).
