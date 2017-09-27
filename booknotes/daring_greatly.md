@@ -18,5 +18,9 @@ I knew vulnerability was kinda useful when it came to taking huge risks in life 
 * Empathy towards others helps solve other problems as well. For example, many fights between loved ones (husband-wife, daughter-mother) result from having a sense of being unheard and misunderstood - empathy can solve this. However, both sides need to have empathy in that case.
 * It's important to cultivate shame-resilience strategies. In addition to empathy towards oneself, **expressive writing** also helps fight the shame. "I am not what happend to me. I am what I choose to become."
 * _We are hard on others because we are hard on ourselves_. For example, if we're comfortable with our weight, we don't judge someone else having a bit of weight. (I used to be hard on others - However, I would give benefit of doubt to strangers, but was really hard on people close to me. I have changed this aspect after realizing this few years ago.)
-* There are 3 types vulnerability armours we often wear:
+* There are 3 types vulnerability armors we often wear:
   1. **Foreboding Joy** - When we feel happy or joyful, we are often scared that it will not last. By doing so (or by catastrophising it), we end up not enjoying the moment. **Expressing gratitude** is an antidote to foreboding joy.
+  1. **Perfectionism** - It's important to note the perfectionism is not the same as the ability to improve. There is actually no such thing as perfect. **I am enough** is a good way to overcome this issue. _Finishing an incomplete task is better than never finishing a perfect job_.
+  1. **Numbing the feelings** - This often results from shame, anxiety and disconnection.
+* Apart from the above 3 vulnerability armors, the following less frequent ones do affect some people:
+  1. **Viking or Victim**
