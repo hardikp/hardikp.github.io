@@ -24,3 +24,6 @@ I knew vulnerability was kinda useful when it came to taking huge risks in life 
   1. **Numbing the feelings** - This often results from shame, anxiety and disconnection.
 * Apart from the above 3 vulnerability armors, the following less frequent ones do affect some people:
   1. **Viking or Victim**
+* **Strategy vs Culture** is an important question in the business community. Strategy is the game plan. Culture is the way we do things. Culture is who we are.
+* **Aspirational values vs Practiced values**: If the practiced values consistently differ from aspirational values, the disengagement is inevitable. For example, a mother is teaching her daughter about the importance of honesty. On a shopping trip, she finds out the cashier forgot to charge her for the soda and she conviniently ignores going back to the store. This is an example of practiced value differing from aspirational values.
+* What's the most significant barrier to creativity and innovation? It's the fear of introducing an idea and being ridiculed, laughed at and belittled. It's the fear of failing when trying something new.

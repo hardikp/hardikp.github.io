@@ -14,7 +14,7 @@ a lot more information.
 
 ## 2017
 <img src="/assets/books-2017.JPG">
-* Daring Greatly (Audiobook, Ongoing)
+* Daring Greatly (Audiobook, Ongoing) - [Notes](/books/daring_greatly)
 * Homo Deus (Ongoing)
 * 1984 (Audiobook)
 * The Organized Mind (Audiobook) - [Notes](/books/organized_mind)
