@@ -14,8 +14,10 @@ a lot more information.
 
 ## 2017
 <img src="/assets/books-2017.JPG">
-* Daring Greatly (Audiobook, Ongoing) - [Notes](/books/daring_greatly)
+* The Everything Store: Jeff Bezos and the Age of Amazon (Audiobook, Ongoing)
+* Algorithms to Live By (Ongoing)
 * Homo Deus (Ongoing)
+* Daring Greatly (Audiobook) - [Notes](/books/daring_greatly)
 * 1984 (Audiobook)
 * The Organized Mind (Audiobook) - [Notes](/books/organized_mind)
 * Behave: The Biology of Humans at Our Best and Worst

@@ -41,3 +41,4 @@ I knew vulnerability was kinda useful when it came to taking huge risks in life 
 * Wholeheartedness is like the north star. We never really arrive, but we certainly know we are headed in the right direction.
 * Perfectionism is not striving for excellence or reaching one's best self. It's about valuing what other people think over what you think or how you feel.
 * Normalizing helps shame resilience. Talking about and sharing experiences (i.e. normalizing) helps.
+* **Fitting in vs Belonging**: Belonging is being somewhere where you want to be and they want you. Fitting in is where you really want to be, but they don't care one way or the other. Belonging is being accepted for you, fitting in is being accepted for being like everyone else. I get to be me if I belong. I have to be you to fit in.
