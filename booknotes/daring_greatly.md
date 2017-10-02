@@ -7,8 +7,16 @@ permalink: /books/daring_greatly/
 I knew vulnerability was kinda useful when it came to taking huge risks in life and career. However, it wasn't until when my girlfriend recently introduced me to Brene Brown's talks/books that I realized how important it is in everyday life.
 
 10 guidelines to **wholehearted** living:
-1. 1
-1. 2
+1. **Cultivating Authenticity**: Letting go of what people think
+1. **Cultivating Self-Compassion**: Letting go of perfectionism
+1. **Cultivating a Resilient Spirit**: Letting go of numbing and powerlessness
+1. **Cultivating Gratitude and Joy**: Letting go of scarcity and fear of the dark
+1. **Cultivating Intuition and Trusting Faith**: Letting go of the need for certainty
+1. **Cultivating Creativity**: Letting go of comparison
+1. **Cultivating Play and Rest**: Letting go of exhaustion as a status symbol and productivity as self-worth
+1. **Cultivating Calm and Still**: Letting go of anxiety as a lifestyle
+1. **Cultivating Meaingful Work**: Letting go of self-doubt and "supposed to"
+1. **Cultivating Laughter, Song and Dance**: Letting go of being cool and "always in control"
 
 * **Narcissism** stems out of the fear of being ordinary. You end up defining yourself in terms of the number of likes you get on Facebook or instagram.
 * **Scarcity** - the never enough problem. "Never thin enough", "Never good enough", "Never successful enough", "Never smart enough", "Never safe enough". "I didn’t get enough sleep", "I don’t have enough time". Source of scarcity - it thrives in cultures with high shame and cultures fractured by disengagement.
@@ -29,3 +37,7 @@ I knew vulnerability was kinda useful when it came to taking huge risks in life 
 * What's the most significant barrier to creativity and innovation? It's the fear of introducing an idea and being ridiculed, laughed at and belittled. It's the fear of failing when trying something new.
 * From blame comes shame and then hurt, denial, anger and retaliation. Blacme is simply the discharging of discomfort and pain. If blame is a pattern in your culture, shame needs to be addressed as an issue. Related to blame is the issue of cover-ups.
 * Lack of feedback is cited as one of the major problems with most organizations.
+* Wholehearted parenting is not having everything figured out and passing it down. It's about learning and figuring things out together.
+* Wholeheartedness is like the north star. We never really arrive, but we certainly know we are headed in the right direction.
+* Perfectionism is not striving for excellence or reaching one's best self. It's about valuing what other people think over what you think or how you feel.
+* Normalizing helps shame resilience. Talking about and sharing experiences (i.e. normalizing) helps.
