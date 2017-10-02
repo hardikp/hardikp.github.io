@@ -6,7 +6,7 @@ permalink: /books/daring_greatly/
 
 I knew vulnerability was kinda useful when it came to taking huge risks in life and career. However, it wasn't until when my girlfriend recently introduced me to Brene Brown's talks/books that I realized how important it is in everyday life.
 
-10 guidelines to **wholehearted** living:
+10 guideposts to **wholehearted** living:
 1. **Cultivating Authenticity**: Letting go of what people think
 1. **Cultivating Self-Compassion**: Letting go of perfectionism
 1. **Cultivating a Resilient Spirit**: Letting go of numbing and powerlessness
