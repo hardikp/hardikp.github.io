@@ -8,6 +8,9 @@ mathjax: true
 ---
 This is the first of a series of posts on the task of applying machine learning for intraday stock price/return prediction. Price prediction is extremely crucial to most trading firms. People have been using various prediction techniques for many years. We will explore those techniques as well as recently popular algorithms like neural networks. In this post, we will focus on applying linear models on the features derived from market data.
 
+* TOC
+{:toc}
+
 ## Problem definition
 
 The goal is to predict the price change (or return) of a security.
