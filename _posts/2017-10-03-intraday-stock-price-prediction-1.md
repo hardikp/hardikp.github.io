@@ -2,11 +2,11 @@
 layout: post
 comments: true
 title: "Machine Learning for Intraday Stock Price Prediction 1: Linear Models"
-excerpt: "This is the first of a series of posts on the task of applying machine learning for intraday stock price/return prediction. Price prediction is extremely crucial to most trading firms. People have been using various prediction techniques for many years. We will explore those techniques as well as recently popular algorithms like neural networks. In this post, we will mostly focus on applying linear models on market data based features."
+excerpt: "This is the first of a series of posts on the task of applying machine learning for intraday stock price/return prediction. Price prediction is extremely crucial to most trading firms. People have been using various prediction techniques for many years. We will explore those techniques as well as recently popular algorithms like neural networks. In this post, we will focus on applying linear models on the features derived from market data."
 date:   2017-10-03 22:00:00
 mathjax: true
 ---
-This is the first of a series of posts on the task of applying machine learning for intraday stock price/return prediction. Price prediction is extremely crucial to most trading firms. People have been using various prediction techniques for many years. We will explore those techniques as well as recently popular algorithms like neural networks. In this post, we will mostly focus on applying linear models on market data based features.
+This is the first of a series of posts on the task of applying machine learning for intraday stock price/return prediction. Price prediction is extremely crucial to most trading firms. People have been using various prediction techniques for many years. We will explore those techniques as well as recently popular algorithms like neural networks. In this post, we will focus on applying linear models on the features derived from market data.
 
 * TOC
 {:toc}
