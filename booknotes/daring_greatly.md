@@ -18,6 +18,7 @@ I knew vulnerability was kinda useful when it came to taking huge risks in life 
 1. **Cultivating Meaingful Work**: Letting go of self-doubt and "supposed to"
 1. **Cultivating Laughter, Song and Dance**: Letting go of being cool and "always in control"
 
+The following sentences stuck out from the book:
 * **Narcissism** stems out of the fear of being ordinary. You end up defining yourself in terms of the number of likes you get on Facebook or instagram.
 * **Scarcity** - the never enough problem. "Never thin enough", "Never good enough", "Never successful enough", "Never smart enough", "Never safe enough". "I didn’t get enough sleep", "I don’t have enough time". Source of scarcity - it thrives in cultures with high shame and cultures fractured by disengagement.
 * **Nostalgia** is also a dangerous form of comparison. (Older folks reminiscing about younger days. US election, Brexit are the examples.) (We compare against a perfectly edited memory that never existed.)
