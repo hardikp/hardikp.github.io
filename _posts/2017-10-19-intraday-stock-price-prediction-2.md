@@ -139,6 +139,8 @@ Similar to the FNN case, we can model all the securities together. We just need 
 self.fc2 = nn.Linear(hidden_size, num_securities)
 ```
 
+The performance of LSTM and FNN are similar. However, learning all the securities in the basket together makes it really easy to manage the trained models well. So, I ended up using the FNN model that predicts price difference for all securities together. FNN was chosen mostly because of its simplicity.
+
 ## Using intraday models for trading
 
 An important task after this is to convert the predicted price change into action. A popular method is to send a limit buy order if the prediction signal from the model is more than certain threshold. If the signal falls below the threshold after some time, we can choose to keep or cancel the order. Similarly, send a limit sell order if the prediction signal is below a certain threshold on the negative side.
