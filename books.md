@@ -14,7 +14,7 @@ a lot more information.
 
 ## 2017
 <img src="/assets/books-2017.JPG">
-* The Everything Store: Jeff Bezos and the Age of Amazon (Audiobook, Ongoing)
+* The Everything Store: Jeff Bezos and the Age of Amazon (Audiobook, Ongoing) - [Notes](/books/everything_store)
 * Algorithms to Live By (Ongoing)
 * Homo Deus (Ongoing)
 * Daring Greatly (Audiobook) - [Notes](/books/daring_greatly)
