@@ -34,6 +34,7 @@ permalink: pretty
 gems:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jemoji
 
 # Pagination configuration
 paginate: 10
