@@ -176,3 +176,5 @@ class TradingSystem(object):
 At this point, it's important to note that the above function has certain parameters that affect the trading. More specifically, `threshold` is the most important parameter there. It's often a good practice to iterate through the threshold and other parameters to see what works out well in the PNL space.
 
 The above function might get called 100k-1M times a day for an HFT system. A relatively lower frequency trading system might be able to utilize better pipelining of feature computation as well as more complex models.
+
+Speed is an important factor to consider. Even if your model is not that fast, it always helps to react faster to market updates and events. Therefore, many people end up coding up their final algorithms in C++.
