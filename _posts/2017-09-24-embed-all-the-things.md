@@ -39,4 +39,4 @@ The set of positive entity pairs $$E^+$$ and the set of negative entity pairs $$
     <img src="/assets/starspace_model/sentence_embedding_results.png">
 
 ## <span style="color:#e08d60">Comments</span>
-It seems this is a really good generalization of embedding models we have seen so far. Given that the use and imporance of embeddings is increasing in many machine learning applications, this is a very good step towards addressing a wide variety of tasks that involve different types of embeddings.
+It seems this is a really good generalization of various embedding models we have seen so far. Given that the use and imporance of embeddings is increasing in many machine learning applications, this is a very good step towards addressing a wide variety of tasks that involve different types of embeddings.
