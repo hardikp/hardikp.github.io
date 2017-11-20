@@ -16,10 +16,10 @@ a lot more information.
 <img src="/assets/books-2017.JPG">
 * Homo Deus (Ongoing)
 * Algorithms to Live By
-* The Everything Store: Jeff Bezos and the Age of Amazon (Audiobook) - [Notes](/books/everything_store)
-* Daring Greatly (Audiobook) - [Notes](/books/daring_greatly)
+* [The Everything Store: Jeff Bezos and the Age of Amazon](/books/everything_store) (Audiobook)
+* [Daring Greatly](/books/daring_greatly) (Audiobook)
 * 1984 (Audiobook)
-* The Organized Mind (Audiobook) - [Notes](/books/organized_mind)
+* [The Organized Mind](/books/organized_mind) (Audiobook)
 * Behave: The Biology of Humans at Our Best and Worst
 * High Output Management
 * The Innovator's Dilemma (~ 75% remaining)
@@ -27,12 +27,12 @@ a lot more information.
 * India After Gandhi
 * Elon Musk
 * Sapiens
-* Why Nations Fail - [Notes](/books/why_nations_fail)
+* [Why Nations Fail](/books/why_nations_fail)
 * Modern Romance (Audiobook)
 * Pitch Anything
 
 ## 2016
-* The Vital Question - [Notes](/books/vital_question)
+* [The Vital Question](/books/vital_question)
 * The Checklist Manifesto
 * Thinking Fast and Slow
 * The Emperor of All Maladies
