@@ -5,6 +5,7 @@ title: "Machine Learning for Intraday Stock Price Prediction 2: Neural Networks"
 excerpt: "This is the second of a series of posts on the task of applying machine learning for intraday stock price/return prediction. Price prediction is extremely crucial to most trading firms. People have been using various prediction techniques for many years. We will explore those techniques as well as recently popular algorithms like neural networks. In this post, we will focus on applying neural networks on the features derived from market data."
 date:   2017-10-19 22:00:00
 mathjax: true
+image_url: "/assets/intraday_stock_pred1/AAPL_20170928.png"
 ---
 This is the second of a series of posts on the task of applying machine learning for intraday stock price/return prediction. Price prediction is extremely crucial to most trading firms. People have been using various prediction techniques for many years. We will explore those techniques as well as recently popular algorithms like neural networks. In this post, we will focus on applying neural networks on the features derived from market data.
 

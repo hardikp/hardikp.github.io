@@ -5,6 +5,7 @@ title:  "SELU vs RELU activation in simple NLP models"
 excerpt: "RELU activation function has become the de facto choice in neural networks these days. Few weeks ago, some researchers proposed Scaled Exponential Linear Unit (SELU) activation function. They show a far better convergence using SELU. In this post, I am posting a simple comparison of SELU against RELU using a simple BoW model on SNLI dataset."
 date:   2017-07-24 23:00:00
 mathjax: false
+image_url: "/assets/selu_vs_relu_without_batchnorm.png"
 ---
 
 ### Background on SELU

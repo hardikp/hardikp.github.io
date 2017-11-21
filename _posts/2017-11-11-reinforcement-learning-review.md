@@ -5,6 +5,7 @@ title: "A Brief Review of Reinforcement Learning"
 excerpt: "Reinforcement Learning is a mathematical framework for experience-driven autonomous learning. An RL agent interacts with its environment and, upon observing the consequences of its actions, can learn to alter its own behaviour in response to the rewards received. The goal of the agent is to learn a policy ππ that maximizes the expected return (cumulative, discounted reward)."
 date:   2017-11-11 22:00:00
 mathjax: true
+image_url: "/assets/rl-intro/agent-env.png"
 ---
 Reinforcement Learning is a mathematical framework for experience-driven autonomous learning. An **RL agent** interacts with its **environment** and, upon observing the consequences of its **actions**, can learn to alter its own behaviour in response to the **rewards** received. The goal of the agent is to learn a **policy** $$\pi$$ that maximizes the expected **return** (cumulative, discounted reward).
 
