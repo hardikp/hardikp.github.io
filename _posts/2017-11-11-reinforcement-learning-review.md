@@ -32,9 +32,9 @@ $$v_{\pi}(s) = E[R_t|s_t = s]$$
 
 $$v_{\pi}(s)$$ decomposes into the Bellman equation:
 
-$$v_{\pi}(s) = \sum_a \pi(a|s) \sum_{s',r}p(s',s|s,a)[r + \gamma v_{\pi}(s')]$$
+$$v_{\pi}(s) = \sum_a \pi(a|s) \sum_{s',r}p(s',r|s,a)[r + \gamma v_{\pi}(s')]$$
 
-In the above equation, we are assuming the stochastic policy $$\pi(a \vert s)$$. Therefore, we are summing over all actions. $$p(s',s \vert s,a)$$ is the state transition probabily for the given environment. And $$r + \gamma v_{\pi}(s')$$ is the return for taking action $$a$$ from state $$s$$.
+We are assuming a stochastic policy $$\pi(a \vert s)$$ in the above equation. Therefore, we are summing over all actions. $$p(s',r \vert s,a)$$ is the state transition probabily for the given environment. And $$r + \gamma v_{\pi}(s')$$ is the return for taking action $$a$$ from state $$s$$.
 
 An optimal state value $$v_*(s)$$ is the maximum state value achievable by any policy for state $$s$$.
 

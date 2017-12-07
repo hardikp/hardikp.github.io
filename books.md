@@ -14,7 +14,8 @@ a lot more information.
 
 ## 2017
 <img src="/assets/books-2017.JPG">
-* Homo Deus (Ongoing)
+* To Sell Is Human (Ongoing)
+* Homo Deus
 * Algorithms to Live By
 * [The Everything Store: Jeff Bezos and the Age of Amazon](/books/everything_store) (Audiobook)
 * [Daring Greatly](/books/daring_greatly) (Audiobook)
