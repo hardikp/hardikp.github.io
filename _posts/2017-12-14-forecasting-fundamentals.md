@@ -8,6 +8,8 @@ mathjax: true
 image_url: "assets/forecasting-fundamentals-2017/results.png"
 ---
 
+arXiv link: [https://arxiv.org/abs/1711.04837](https://arxiv.org/abs/1711.04837)
+
 Stock price movement happens at various levels. In the very short term (intraday), price movement is often driven
 by liquidity in the market. At the scale of few days, overall market movements as well as rumors, prroduct launches and sales reports play important roles. In the long run, the price movement depends on the company's fundamental data like sales numbers and book value. Various quant funds work on all of these different levels, all the way from HFT market making (intraday movement) to doing factor strategies.
 
