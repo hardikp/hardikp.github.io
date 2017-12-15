@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "[Paper Summary] Deep Neural Networks for Youtube Recommendations"
+title: "Deep Neural Networks for Youtube Recommendations (Paper Summary)"
 excerpt: "Youtube switched their recommender system from matrix factorization to neural networks few years ago. This paper describes the neural network models as well as the overall system around it, including the data processing and deployment aspects."
 date:   2017-09-17 18:00:00
 mathjax: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "[Paper Summary] Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals"
+title: "Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals (Paper Summary)"
 excerpt: "Factor-based strategies are very common in quant funds. Doing a good job of forecasting the fundamentals directly translates into better returns in the factor strategies. The authors used the US company data from 1970 to 2017. They compare MLP/RNN approach against the linear regression and a naive predictor."
 date:   2017-12-14 22:00:00
 mathjax: true
@@ -44,7 +44,7 @@ Balance sheet features - _most recent quarter (MRQ)_:
 
 Fundamental features are normalized by the market capitalization of the company. The features are then scaled to zero mean and unit standard deviation.
 
-## Models and Results
+## Models
 
 _In-sample_ and _out-of-sample_ data are chosen at 2 levels:
 * 1970-2017 period is divided into in-sample period of 1970-1999 and out-of-sample period of 2000-2017.
@@ -54,4 +54,10 @@ In-sample validation set is used to indentify the hyperparameters and the early 
 
 At each time step $$t$$, features from 5 months spaced 1 year apart ($$t-48, t-36, t-24, t-12, t$$) are used to predict the fundamental data at time t + 12. The authors used multilayer perceptron (MLP) and recurrent neural network (RNN) models for this prediction setup.
 
+## Results
+
 <img src="/assets/forecasting-fundamentals-2017/results.png">
+
+From the above result table, it's clear that using predicted future fundamental data is more effective in the strategy return space. And among the prediction models, MLP is doing a better job than a linear regression model.
+
+The strategy simulation was done by ranking all stocks according to the factor EBIT/EV (Earnings before interest and taxes). Top 50 stocks were selected. They allocated equally in these top 50 stocks and kept the positions for the next 1 year. At the end of the year, they would rebalance according to the new predictions and rankings.
