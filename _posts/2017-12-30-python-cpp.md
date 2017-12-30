@@ -127,7 +127,7 @@ from distutils.core import setup, Extension
 
 example_module = Extension(
     'example',
-    sources=['example-classy.cpp'],
+    sources=['example-pants.cpp'],
     language='C++', )
 
 setup(
@@ -141,6 +141,8 @@ After creating **setup.py** and **example-pants.cpp**, this is how we would inst
 ```bash
 python3 setup.py install
 ```
+
+In this step, we are compiling the `example-pants.cpp` file into a `.so` shared library file. Python is able to read the module info from this shared library.
 
 However, I often prefer to use:
 ```bash
@@ -347,6 +349,17 @@ PYBIND11_MODULE(example, m) {
 
   m.attr("__version__") = "dev";
 }
+```
+
+That's it! This is all we need to do to create our `example` module with `pants` function.
+
+In our `setup.py`, we need to give the pybind11 include path in the Extension. The rest is pretty much the same.
+```python
+example_module = Extension(
+    'example',
+    sources=['example-pants.cpp'],
+    language='C++',
+    include_dirs=[pybind11.get_include(True)], )
 ```
 
 ### Links
