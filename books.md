@@ -12,6 +12,13 @@ I like to read **non-fiction books**. For me, the objectives for reading books i
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
 
+## 2018
+* Our Time Has Come: How India is Making Its Place in the World (Ongoing)
+* Principles (Ray Dalio) (Ongoing)
+* Poor Charlie's Almanack (Ongoing)
+* Hit Refresh (Ongoing)
+* Awakening the Buddha Within (Ongoing)
+
 ## 2017
 <img src="/assets/books-2017.JPG">
 * To Sell Is Human (Ongoing)
