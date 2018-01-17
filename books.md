@@ -7,17 +7,19 @@ permalink: /books/
 I like to read **non-fiction books**. For me, the objectives for reading books include:
 1. *Satisfying curiosity*
 1. *Understanding the world around us*
-1. *Develop a better world view* - to help develop a more rational intuition (which helps improve the daily decisions).
+1. *Develop a better world view* - to help develop a more rational intuition.
 
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
 
 ## 2018
+* Serious Cryptography (Ongoing)
+* The Three-Body Problem (Ongoing)
 * Our Time Has Come: How India is Making Its Place in the World (Ongoing)
 * Principles (Ray Dalio) (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
-* Hit Refresh (Ongoing)
-* Awakening the Buddha Within (Ongoing)
+* Hit Refresh
+* Awakening the Buddha Within
 
 ## 2017
 <img src="/assets/books-2017.JPG">
