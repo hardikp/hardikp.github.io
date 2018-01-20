@@ -14,10 +14,10 @@ a lot more information.
 
 ## 2018
 * Serious Cryptography (Ongoing)
-* The Three-Body Problem (Ongoing)
 * Our Time Has Come: How India is Making Its Place in the World (Ongoing)
 * Principles (Ray Dalio) (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
+* The Three-Body Problem
 * Hit Refresh
 * Awakening the Buddha Within
 
