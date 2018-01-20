@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-I like to read **non-fiction books**. For me, the objectives for reading books include:
+I like to read **non-fiction books**. My goals for reading books include:
 1. *Satisfying curiosity*
 1. *Understanding the world around us*
 1. *Develop a better world view* - to help develop a more rational intuition.
