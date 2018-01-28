@@ -13,10 +13,12 @@ I am incredibly slow at reading, but really fast at understanding concepts. So, 
 a lot more information.
 
 ## 2018
-* Serious Cryptography (Ongoing)
-* Our Time Has Come: How India is Making Its Place in the World (Ongoing)
-* Principles (Ray Dalio) (Ongoing)
+* An Unquiet Mind (Ongoing)
+* I Contain Multitudes (Ongoing)
+* Principles: Life and Work (Ray Dalio) (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
+* Our Time Has Come: How India is Making Its Place in the World
+* Serious Cryptography
 * The Three-Body Problem
 * Hit Refresh
 * Awakening the Buddha Within
