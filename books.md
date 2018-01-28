@@ -78,6 +78,8 @@ a lot more information.
 
 ## 2009
 * Surely, You're Joking Mr Feynman
+* The Alchemist
+* The Kite Runner
 
 ## 2008
 * Harry Potter and the Deathly Hallows
@@ -87,6 +89,9 @@ a lot more information.
 * Harry Potter and the Prisoner of Azkaban
 * Harry Potter and the Chamber of Secrets
 * Harry Potter and the Sorcerer's Stone
+
+## 2007
+* Five Point Someone
 
 ## 2003
 * My Experiments With Truth (Gujarati) - [I mention it in this medium.com post](https://medium.com/@hardikp/how-gandhi-brought-changes-in-himself-and-his-followers-1c1bed51c6aa)
