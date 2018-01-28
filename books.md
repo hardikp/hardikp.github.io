@@ -64,6 +64,7 @@ a lot more information.
 * The Black Swan (Incomplete)
 
 ## 2013
+* Durbar
 * A Game of Thrones
 * A Storm of Swords
 * A Feast for Crows (Incomplete)
