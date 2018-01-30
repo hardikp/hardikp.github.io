@@ -16,7 +16,7 @@ a lot more information.
 * An Unquiet Mind (Ongoing)
 * I Contain Multitudes (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
-* Principles: Life and Work (Ray Dalio)
+* Principles: Life and Work
 * Our Time Has Come: How India is Making Its Place in the World
 * Serious Cryptography
 * The Three-Body Problem
