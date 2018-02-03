@@ -13,9 +13,9 @@ I am incredibly slow at reading, but really fast at understanding concepts. So, 
 a lot more information.
 
 ## 2018
-* An Unquiet Mind (Ongoing)
 * I Contain Multitudes (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
+* An Unquiet Mind
 * Principles: Life and Work
 * Our Time Has Come: How India is Making Its Place in the World
 * Serious Cryptography
