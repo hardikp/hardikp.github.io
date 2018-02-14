@@ -13,6 +13,7 @@ I am incredibly slow at reading, but really fast at understanding concepts. So, 
 a lot more information.
 
 ## 2018
+* Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Ongoing)
 * Hyperbole and a Half (Ongoing)
 * I Contain Multitudes (Ongoing)
 * Poor Charlie's Almanack (Ongoing)

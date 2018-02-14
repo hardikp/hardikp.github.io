@@ -21,11 +21,6 @@ Improvements in NLP have helped increase the effectiveness of quantitative strat
 
 All this leads to the fact that **finacial markets are inherently unpredictable**. There are multiple reasons why it's so hard to predict here. I want to highlight some major reasons that make it hard.
 
-{% comment %}
-## It's a Completely Different Metric Scale
-Imagenet accuracy is 90%+.
-{% endcomment %}
-
 ## Data Distribution
 The issue of data distribution is crucial - almost all research papers doing financial predictions miss this point.
 
@@ -75,23 +70,3 @@ ML is applicable in very diverse domains. Out of all of them, I find **recommend
 If there is one thing you take away from this post, let it be this: **Financial time-series is a partial information game (POMDP) that's really hard even for humans - we shouldn't expect machines and algorithms to suddenly surpass human ability there**.
 
 What these algorithms are good at is the ability to unemotionally spot a hardcoded pattern and act on it - this unemotionality is a double-edged sword though - sometimes it helps and other times it doesn't. The simple pattern recognition cases where it has helped the most have all been exhausted. The next stage of recognizing patterns in the financial time series through unsupervised learning remains an elusive dream.
-
-{% comment %}
-
-Points I want to get across:
-* Accuracies in image/audio/video/text problems is way different from the accuracies in financial prediction problems.) Ways to convey this:
-  1. Accuracy of logistic regression for MNIST and how much improvement deep learning does - and compare this with financial prediction problem - pick to the top 5 stocks.
-* Data distribution remains the same in image/audio/text problems. Distribution continuously evolves in financial prediction problems. Of course, ML researchers are starting to recognize this problem with adversarial examples. Ways to convey this: 
-* The actual financial problem is really complicated. Different things happen at different scales: HFT at short intervals, News/rumors at the day-month range, value investing and economic cycles at the years range and so on. Each of them is very difficult on its own. And combining them is incredibly hard. (Therefore, it's quite useful to understand how each model works.)
-  * Using an economic calendar (https://tradingeconomics.com/calendar, https://www.fxstreet.com/economic-calendar) is one way to work around this problem.
-* There is often a need to learn from small sample size - sometimes from a sample size of 1. e.g. financial crisis of 2008. Most learning algorithms fail at this. And of course, image/text/audio models do not suffer from this problem.
-* There is often a need to learn from unquantifiable data. The timeline of humanity's financial history is the same as humanity's history itself. Unfortunately, it's hard to convert that to quantifiable data - data that algorithms can understand.
-* Financial problems are similar to recommendation problems: Low signal-to-noise ratio, low accuracies. Both have a lot of data readily available. Both have seasonality.
-
-Ultimately, this is a partial-information game (POMDP) that's really hard even for humans - we can't expect machines and algorithms to suddenly surpass human ability there. What they are good at is the ability to unemotionally act on a pattern - this unemotionality is a double-edged sword - sometimes it works and other times it doesn't.
-
-Counter-points:
-* The threshold at which image models became useful was way higher than the threshold at which financial models became useful.
-* Financial prediction has a ton of cheap data points - they often don't require manual labeling.
-
-{% endcomment %}
