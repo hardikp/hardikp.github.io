@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: simple_post
 title: Archive
+permalink: /archive/
 ---
 
 {% for post in site.posts %}
