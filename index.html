@@ -15,7 +15,7 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {% if post.image_url %}
-      <img src="{{ post.image_url }}">
+      <img src="{{ site.url }}{{ post.image_url }}">
     {% endif %}
 
     {{ post.excerpt }}
