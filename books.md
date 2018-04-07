@@ -28,7 +28,8 @@ a lot more information.
 * Awakening the Buddha Within
 
 ## 2017
-<img src="/assets/books-2017.JPG">
+
+![Book collection in 2017](/assets/books-2017.JPG)
 
 * To Sell Is Human (Ongoing)
 * Homo Deus
