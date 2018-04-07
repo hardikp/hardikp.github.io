@@ -16,8 +16,8 @@ a lot more information.
 ## 2018
 
 * Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Ongoing)
-* I Contain Multitudes (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
+* I Contain Multitudes
 * Hyperbole and a Half
 * An Unquiet Mind
 * Principles: Life and Work
