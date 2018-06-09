@@ -15,8 +15,10 @@ a lot more information.
 
 ## 2018
 
+* The Book of Why (Ongoing)
 * Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
+* Zero to One
 * I Contain Multitudes
 * Hyperbole and a Half
 * An Unquiet Mind
