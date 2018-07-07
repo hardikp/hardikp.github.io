@@ -18,6 +18,7 @@ a lot more information.
 * The Book of Why (Ongoing)
 * Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
+* Benjamin Franklin: An American Life
 * Zero to One
 * I Contain Multitudes
 * Hyperbole and a Half
