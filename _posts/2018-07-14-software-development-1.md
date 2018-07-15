@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Thoughts on Software Development 1: Organization and Team Structures"
-excerpt: ""
+excerpt: "I am obsessed with productivity. This naturally leads me to ask what kind of organizations and team structures would produce more productive outcomes. Is the flat structure better for productivity or is the hierarchical management style better for focused work? What are the patterns and anti-patterns of different teams?"
 date:   2018-07-14 12:00:00
 mathjax: false
 image_url: "/assets/software-development-1/team.gif"
