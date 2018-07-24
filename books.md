@@ -15,6 +15,8 @@ a lot more information.
 
 ## 2018
 
+* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts (Ongoing)
+* The Rise of Theodore Roosevelt (Ongoing)
 * The Book of Why (Ongoing)
 * Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
