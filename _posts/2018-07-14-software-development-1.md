@@ -13,7 +13,7 @@ image_url: "/assets/software-development-1/team.gif"
 (Note: This is the first of potentially many posts where **I ramble on different Software Development topics**. Also, I may update these posts over time based on my evolving views.)
 
 I am obsessed with productivity. This naturally leads me to ask what kind of organizations and team structures would produce more productive outcomes.
-Is the flat structure better for productivity or is the hierarchical management style better for focused work? What are the patterns and anti-patterns of different teams?
+Is the flat structure better for productivity or is the hierarchical management style better for focused work? What are the patterns and anti-patterns of different teams? Is it more productive to closely monitor team members' tasks or is it good to let them fail and learn on their own?
 
 * TOC
 {:toc}
@@ -54,27 +54,42 @@ However, I have come to appreciate the boredom that comes with doing isolated wo
 
 ## Multiple Stakeholders
 
-Some teams have more than one decision makers each having a different mandate. Let’s say a team consists of software engineers - one stakeholder has the responsibility to create new products, the other has the responsibility to maintain and improve existing workflows, while the third has the mandate to improve technical infrastructure. This is usually a recipe for disaster - it can lead to poor quality of work in all 3 areas. Like most things, this also has exceptions - we do see small teams of dedicated engineers in many startups deliver high-quality results on multiple fronts.
+Some teams have more than one decision makers each having a different mandate. Let’s say a team consists of software engineers - one stakeholder has the responsibility to create new products, the other has the responsibility to maintain and improve existing operations, while the third has the mandate to improve technical infrastructure. This is usually a recipe for disaster - it can lead to poor quality of work in all 3 areas. Like most things, this also has exceptions - we do see teams of dedicated engineers in many startups deliver high-quality results on multiple fronts.
 
 ## Extreme Collaboration
 
 I have been a big proponent of fostering extreme collaboration at an individual level. I have advocated for empowering individuals to be able to contribute in a number of different products at the same time. I now realize that this is a flawed concept. The need to focus on a part of the work is extremely crucial to achieving quality. True polymaths are rare. And polymaths who can deliver quality on multiple fronts simultaneously are extremely rare.
 
-However, I still advocate for learning from different disciplines and various projects and applying those skills in that one thing you do. This is popularized by Charlie Munger in the form of [mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d). In his book [Poor Charlie's Almanack](https://www.poorcharliesalmanack.com/), he describes relentlessly learning from different areas and applying that knowledge to investing. After reading that book, I realized I can't possibly do an excellent job in both computer science problems and bioinformatics. At max, I can continue to stay updated on what’s going on - but, I have to choose a single target for my work.
+However, I still advocate for learning from different disciplines and various projects and applying those skills in that one thing you do. This is popularized by Charlie Munger in the form of [mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d). In his book [Poor Charlie's Almanack](https://www.poorcharliesalmanack.com/), he describes his method of relentlessly learning from different areas and applying that interdisciplinary knowledge to a single area - which is investing in his case. This was my aha moment - where I realized it's still important to gather knowledge from various places, but try not to spread yourself thin. Otherwise, the quality of work will naturally suffer. After reading that book, I realized I can't possibly do an excellent job in both computer science problems and bioinformatics. At max, I can continue to stay updated on what’s going on - but, I have to choose a single target for my work.
 
 ## A Team Consists of Individuals
 
 Individuals come in all forms and shapes. They may have different skills. They have different aspirations. They often have different and diverse backgrounds.
-Recognizing this aspect of a team is important. Among all the things individuals do toward's a team goal, it's the individual's ability to take initiatives that adds the most value.
+Recognizing this aspect of a team is important. Among all the things individuals do towards a team goal, it's the individual's ability to take initiatives that adds the most value in my opinion.
 Therefore, fostering an inclusive and safe environment for everyone is important - you can only put yourself on the line if you know you would be safe even if the proposed solution/feature/product doesn't work out.
 
 ### Commandos vs Infantry vs Police
 
-Some individuals may be predisposed towards prototyping new products, while others may like to be occupied with maintaining and improving existing systems. And another set of individuals may like to build stuff for scale. See [this wonderful post](https://blog.codinghorror.com/commandos-infantry-and-police/) by Jeff Atwood on a related topic. Recognizing these aspects of individuals would go a long way in making the team more productive.
+Some individuals may be predisposed towards prototyping new products, while others may like to be occupied with maintaining and improving existing systems. And yet another set of individuals may like to build stuff for scale. See [this wonderful post](https://blog.codinghorror.com/commandos-infantry-and-police/) by Jeff Atwood on a related topic. Recognizing these aspects of individuals goes a long way in making the team more productive.
 
 ### Hiring Signals
 
 Some people (including Ray Dalio) advocate hiring people for various roles based on their **personality profile**. While this is not necessarily a bad idea, it can have **high noise** just like any other aspect of the hiring process. See [this post](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem.html) by Erik Bernhardsson for more details on the inherent noise in the hiring process.
+
+There are 3 popular models for hiring:
+
+* **Star Model**: You hire a star performer and build you team around that person.
+* **Skill Model**: Identify the skills required to get a job done. Hire the people who have this skill.
+* **Commitment Model**: Hire people who have the commitment level needed to get the job done. The idea is that they are committed enough to acquire required skills, do boring tasks and do whatever else is need to get the job done.
+
+As you might have already understood, all 3 of these models might work in different situations. For example, a very early stage startup would benefit a lot from having highly committed employees. On the other hand, a mature company might need all 3 kinds of people in different positions: committed folks at product level, skilled people in more research oriented positions, and star folks to attract more talent.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It’s hard to overstate how important Talent Magnets are for building great teams.<br><br>Hiring people who draw top talent in to work with them is a super power, especially early for startups.</p>&mdash; Ryan Delk (@delk) <a href="https://twitter.com/delk/status/1021573249946120192?ref_src=twsrc%5Etfw">July 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Culture Inertia
+
+Once a team has been functioning for a while, it's really hard to change everyone's habits.
 
 # Summary
 
