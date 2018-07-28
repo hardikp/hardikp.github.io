@@ -15,6 +15,7 @@ a lot more information.
 
 ## 2018
 
+* The Drama of the Gifted Child (Ongoing)
 * The Rise of Theodore Roosevelt (Ongoing)
 * The Book of Why (Ongoing)
 * Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Ongoing)
