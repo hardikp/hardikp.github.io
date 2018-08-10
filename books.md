@@ -15,11 +15,11 @@ a lot more information.
 
 ## 2018
 
-* The Drama of the Gifted Child (Ongoing)
 * The Rise of Theodore Roosevelt (Ongoing)
 * The Book of Why (Ongoing)
 * Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
+* The Drama of the Gifted Child
 * Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts
 * Benjamin Franklin: An American Life
 * Zero to One
