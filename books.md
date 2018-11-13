@@ -18,11 +18,11 @@ a lot more information.
 * Poor Charlie's Almanack (Ongoing)
 * Negotiation (Harvard Business Essentials Series) - [amzn](https://www.amazon.com/Negotiation-Harvard-Business-Essentials-Michael/dp/1591391113)
 * Manager's Path - [amzn](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
-* Measure What Matters
-* Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
-* The Drama of the Gifted Child
-* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts
-* Benjamin Franklin: An American Life
+* Measure What Matters - [amzn](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
+* Enlightenment Now: The Case for Reason, Science, Humanism, and Progress - [amzn](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570)
+* The Drama of the Gifted Child - [amzn](https://www.amazon.com/Drama-Gifted-Child-Search-Revised/dp/0465016901)
+* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts - [amzn](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355)
+* Benjamin Franklin: An American Life - [amzn](https://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X)
 * Zero to One
 * I Contain Multitudes
 * Hyperbole and a Half
