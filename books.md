@@ -17,6 +17,8 @@ a lot more information.
 
 * The Rise of Theodore Roosevelt (Ongoing)
 * Poor Charlie's Almanack (Ongoing)
+* Negotiation (Harvard Business Essentials Series) - [amzn](https://www.amazon.com/Negotiation-Harvard-Business-Essentials-Michael/dp/1591391113)
+* Manager's Path - [amzn](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * Measure What Matters
 * Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
 * The Drama of the Gifted Child
