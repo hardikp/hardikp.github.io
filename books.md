@@ -56,6 +56,7 @@ a lot more information.
 * [Why Nations Fail](/books/why_nations_fail)
 * Modern Romance (Audiobook)
 * Pitch Anything
+* Reinforcement Learning: An Introduction - [link](http://incompleteideas.net/book/the-book-2nd.html)
 * Deep Learning - [link](https://www.deeplearningbook.org/)
 
 ## 2016
