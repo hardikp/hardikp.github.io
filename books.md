@@ -16,6 +16,7 @@ a lot more information.
 ## 2018
 
 * Poor Charlie's Almanack (Ongoing)
+* Designing Distributed Systems - [O'Reilly](http://shop.oreilly.com/product/0636920072768.do)
 * Negotiation (Harvard Business Essentials Series) - [amzn](https://www.amazon.com/Negotiation-Harvard-Business-Essentials-Michael/dp/1591391113)
 * Manager's Path - [amzn](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * Measure What Matters - [amzn](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
