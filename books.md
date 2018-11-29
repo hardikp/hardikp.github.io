@@ -56,6 +56,7 @@ a lot more information.
 * [Why Nations Fail](/books/why_nations_fail)
 * Modern Romance (Audiobook)
 * Pitch Anything
+* Deep Learning - [link](https://www.deeplearningbook.org/)
 
 ## 2016
 
