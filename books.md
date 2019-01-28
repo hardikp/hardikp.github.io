@@ -13,9 +13,15 @@ I like to read **non-fiction books**. My goals for reading books include:
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
 
+## 2019
+
+* Age of Ambition: Chasing Fortune, Truth, and Faith in the New China (Ongoing)
+* The Rise and Fall of American Growth (Ongoing)
+* Nudge
+
 ## 2018
 
-* Poor Charlie's Almanack (Ongoing)
+* Pacific: Silicon Chips and Surfboards, Coral Reefs and Atom Bombs, Brutal Dictators, Fading Empires, and the Coming Collision of the World's Superpowers - [amzn](https://www.amazon.com/Pacific-Silicon-Surfboards-Dictators-Empires/dp/0062315420)
 * Designing Distributed Systems - [O'Reilly](http://shop.oreilly.com/product/0636920072768.do)
 * Negotiation (Harvard Business Essentials Series) - [amzn](https://www.amazon.com/Negotiation-Harvard-Business-Essentials-Michael/dp/1591391113)
 * Manager's Path - [amzn](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
