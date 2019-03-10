@@ -16,7 +16,7 @@ a lot more information.
 ## 2019
 
 * Age of Ambition: Chasing Fortune, Truth, and Faith in the New China (Ongoing)
-* The Rise and Fall of American Growth (Ongoing)
+* The Rise and Fall of American Growth
 * Nudge
 
 ## 2018
