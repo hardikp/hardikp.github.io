@@ -15,7 +15,9 @@ a lot more information.
 
 ## 2019
 
-* Age of Ambition: Chasing Fortune, Truth, and Faith in the New China (Ongoing)
+* Designing Data-Intensive Applications (Ongoing)
+* Born a Crime (Ongoing)
+* Age of Ambition: Chasing Fortune, Truth, and Faith in the New China
 * The Rise and Fall of American Growth
 * Nudge
 
