@@ -15,8 +15,9 @@ a lot more information.
 
 ## 2019
 
+* Shoe Dog: A Memoir by the Creator of Nike (Ongoing)
 * Designing Data-Intensive Applications (Ongoing)
-* Born a Crime (Ongoing)
+* Born a Crime
 * Age of Ambition: Chasing Fortune, Truth, and Faith in the New China
 * The Rise and Fall of American Growth
 * Nudge
