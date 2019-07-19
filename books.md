@@ -15,8 +15,10 @@ a lot more information.
 
 ## 2019
 
-* Nonviolent Communication (Ongoing)
 * Designing Data-Intensive Applications (Ongoing)
+* Education (Ongoing)
+* The Body Keeps The Score
+* Nonviolent Communication
 * Becoming
 * Shoe Dog: A Memoir by the Creator of Nike
 * Born a Crime
