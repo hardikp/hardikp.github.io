@@ -16,7 +16,8 @@ a lot more information.
 ## 2019
 
 * Designing Data-Intensive Applications (Ongoing)
-* Education (Ongoing)
+* The Rise of Theodore Roosevelt (Ongoing)
+* Education
 * The Body Keeps The Score
 * Nonviolent Communication
 * Becoming
