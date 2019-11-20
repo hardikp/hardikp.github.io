@@ -15,8 +15,13 @@ a lot more information.
 
 ## 2019
 
-* Designing Data-Intensive Applications (Ongoing)
-* The Rise of Theodore Roosevelt (Ongoing)
+* The Other One Percent: Indians in America (Ongoing)
+* Highly Sensitive Person in Love (Ongoing)
+* Highly Sensitive Person (Ongoing)
+* Why We Sleep (Ongoing)
+* Quiet
+* Theodore Rex
+* The Rise of Theodore Roosevelt
 * Education
 * The Body Keeps The Score
 * Nonviolent Communication
