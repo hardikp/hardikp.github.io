@@ -18,7 +18,7 @@ a lot more information.
 * The Other One Percent: Indians in America (Ongoing)
 * Highly Sensitive Person in Love (Ongoing)
 * Highly Sensitive Person (Ongoing)
-* Why We Sleep (Ongoing)
+* Why We Sleep
 * Quiet
 * Theodore Rex
 * The Rise of Theodore Roosevelt
