@@ -13,11 +13,17 @@ I like to read **non-fiction books**. My goals for reading books include:
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
 
-## 2019
+## Current
 
-* The Other One Percent: Indians in America (Ongoing)
 * Highly Sensitive Person in Love (Ongoing)
 * Highly Sensitive Person (Ongoing)
+
+## 2020
+
+1. Range
+
+## 2019
+
 * Why We Sleep
 * Quiet
 * Theodore Rex
