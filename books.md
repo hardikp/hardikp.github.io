@@ -24,19 +24,19 @@ a lot more information.
 
 ## 2019
 
-* Why We Sleep
-* Quiet
-* Theodore Rex
-* The Rise of Theodore Roosevelt
-* Education
-* The Body Keeps The Score
-* Nonviolent Communication
-* Becoming
-* Shoe Dog: A Memoir by the Creator of Nike
-* Born a Crime
-* Age of Ambition: Chasing Fortune, Truth, and Faith in the New China
-* The Rise and Fall of American Growth
-* Nudge
+1. Why We Sleep
+1. Quiet
+1. Theodore Rex
+1. The Rise of Theodore Roosevelt
+1. Education
+1. The Body Keeps The Score
+1. Nonviolent Communication
+1. Becoming
+1. Shoe Dog: A Memoir by the Creator of Nike
+1. Born a Crime
+1. Age of Ambition: Chasing Fortune, Truth, and Faith in the New China
+1. The Rise and Fall of American Growth
+1. Nudge
 
 ## 2018
 
