@@ -13,7 +13,7 @@ I like to read **non-fiction books**. My goals for reading books include:
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
 
-## Current
+<!-- ## Current -->
 
 ## 2020
 
