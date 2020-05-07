@@ -15,11 +15,9 @@ a lot more information.
 
 ## Current
 
-* Highly Sensitive Person in Love (Ongoing)
-* Highly Sensitive Person (Ongoing)
-
 ## 2020
 
+1. Highly Sensitive Person
 1. A Little History of Economics
 1. Range
 
