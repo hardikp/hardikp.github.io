@@ -13,10 +13,16 @@ I like to read **non-fiction books**. My goals for reading books include:
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
 
-<!-- ## Current -->
+## Current
+
+* A Little History of Philosophy
+* Machine Learning: A Probabilistic Perspective
+* Principles of Neural Science, Fifth Edition
+* Introduction to Linear Algebra, Fifth Edition
 
 ## 2020
 
+1. Man's Search for Meaning
 1. Highly Sensitive Person
 1. A Little History of Economics
 1. Range
