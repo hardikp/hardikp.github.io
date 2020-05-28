@@ -18,7 +18,7 @@ a lot more information.
 * A Little History of Philosophy
 * Machine Learning: A Probabilistic Perspective
 * Principles of Neural Science, Fifth Edition
-* Introduction to Linear Algebra, Fifth Edition
+* Radical Candor
 
 ## 2020
 
