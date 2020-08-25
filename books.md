@@ -16,12 +16,12 @@ a lot more information.
 ## Current
 
 * A Little History of Philosophy
-* Machine Learning: A Probabilistic Perspective
-* Principles of Neural Science, Fifth Edition
+* The Disordered Mind
 * Radical Candor
 
 ## 2020
 
+1. Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions
 1. Man's Search for Meaning
 1. Highly Sensitive Person
 1. A Little History of Economics
