@@ -15,12 +15,12 @@ a lot more information.
 
 ## Current
 
-* A Little History of Philosophy
-* The Disordered Mind
-* Radical Candor
+* Solutions and Other Problems
 
 ## 2020
 
+1. The Center Cannot Hold: My Journey Through Madness by Elyn Saks
+1. The Disordered Mind
 1. Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions
 1. Man's Search for Meaning
 1. Highly Sensitive Person
