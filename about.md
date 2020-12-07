@@ -19,5 +19,3 @@ Links:
 * [Quora](https://www.quora.com/profile/Hardik-Patel-8)
 * [SSH Keys](https://github.com/hardikp.keys). [GPG](https://keybase.io/hardikp).
 * Email: hardikp12@gmail.com
-
-<img width="400px" src="/assets/photos/me.jpg">
