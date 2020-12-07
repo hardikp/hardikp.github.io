@@ -19,6 +19,8 @@ a lot more information.
 
 ## 2020
 
+1. Together: The Healing Power of Human Connection in a Sometimes Lonely World by Vivek Murthy
+1. Solutions and other problems by Allie Brosh
 1. The Center Cannot Hold: My Journey Through Madness by Elyn Saks
 1. The Disordered Mind
 1. Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions
