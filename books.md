@@ -21,6 +21,8 @@ a lot more information.
 ## 2021
 
 1. The Code Breaker
+1. Hidden Valley Road
+1. The Address Book: What Street Addresses Reveal About Identity, Race, Wealth, and Power
 1. Solutions and Other Problems
 
 ## 2020
