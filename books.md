@@ -23,12 +23,11 @@ a lot more information.
 1. The Code Breaker
 1. Hidden Valley Road
 1. The Address Book: What Street Addresses Reveal About Identity, Race, Wealth, and Power
-1. Solutions and Other Problems
 
 ## 2020
 
 1. Together: The Healing Power of Human Connection in a Sometimes Lonely World by Vivek Murthy
-1. Solutions and other problems by Allie Brosh
+1. Solutions and Other Problems by Allie Brosh
 1. The Center Cannot Hold: My Journey Through Madness by Elyn Saks
 1. The Disordered Mind
 1. Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions
