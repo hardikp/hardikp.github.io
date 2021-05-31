@@ -8,7 +8,7 @@ I like to read **non-fiction books**. My goals for reading books include:
 
 1. *Satisfying curiosity*
 1. *Understanding the world around us*
-1. *Develop a better world view* - to help develop a more rational intuition.
+1. *Develop an informed world view* - to help develop a more rational intuition.
 
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
