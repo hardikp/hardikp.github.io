@@ -16,6 +16,7 @@ a lot more information.
 ## Current
 
 * Subliminal: How Your Unconscious Mind Rules Your Behavior
+* Chips and Change: How Crisis Reshapes the Semiconductor Industry
 * The Design of Everyday Things
 * Deep Work / So Good They Can't Ignore You
 * The Art of Rest
