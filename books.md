@@ -16,11 +16,13 @@ a lot more information.
 ## Current
 
 * Subliminal: How Your Unconscious Mind Rules Your Behavior
-* Ageless: The New Science of Getting Older Without Getting Old
 * The Design of Everyday Things
+* Deep Work / So Good They Can't Ignore You
+* The Art of Rest
 
 ## 2021
 
+1. Ageless: The New Science of Getting Older Without Getting Old
 1. The Code Breaker
 1. Hidden Valley Road
 1. Think Again: The Power of Knowing What You Don't Know
