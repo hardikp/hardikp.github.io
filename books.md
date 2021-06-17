@@ -16,13 +16,13 @@ a lot more information.
 ## Current
 
 * Subliminal: How Your Unconscious Mind Rules Your Behavior
-* Chips and Change: How Crisis Reshapes the Semiconductor Industry
 * The Design of Everyday Things
 * Deep Work / So Good They Can't Ignore You
 * The Art of Rest
 
 ## 2021
 
+1. Chips and Change: How Crisis Reshapes the Semiconductor Industry
 1. Ageless: The New Science of Getting Older Without Getting Old
 1. The Code Breaker
 1. Hidden Valley Road
