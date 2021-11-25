@@ -18,6 +18,9 @@ a lot more information.
 
 ## 2021
 
+1. Psychiatry and its Discontents by Andrew Scull
+1. Aroused by Randi Hutter Epstein
+1. How Innovation Works by Matt Ridley
 1. The Design of Everyday Things
 1. Subliminal: How Your Unconscious Mind Rules Your Behavior
 1. Chips and Change: How Crisis Reshapes the Semiconductor Industry
@@ -26,6 +29,10 @@ a lot more information.
 1. Hidden Valley Road
 1. Think Again: The Power of Knowing What You Don't Know
 1. The Address Book: What Street Addresses Reveal About Identity, Race, Wealth, and Power
+
+Started and abandoned soon:
+* Thinking in Systems: A Primer
+* Black and White Thinking by Kevin Dutton
 
 ## 2020
 
