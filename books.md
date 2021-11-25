@@ -30,7 +30,7 @@ a lot more information.
 1. Think Again: The Power of Knowing What You Don't Know
 1. The Address Book: What Street Addresses Reveal About Identity, Race, Wealth, and Power
 
-Started and abandoned soon:
+Started but abandoned:
 * Thinking in Systems: A Primer
 * Black and White Thinking by Kevin Dutton
 
