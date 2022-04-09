@@ -14,7 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2022
 
-* *Exercised
+* *[Exercised](/books/2022_exercised)
 * *Attached by Amir Levine and Rachel Heller
 
 ## 2021
