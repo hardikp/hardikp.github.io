@@ -10,12 +10,12 @@ This page lists some of the books I've read. My goals for reading books include:
 * *Understanding the world around us*
 * *Develop an informed world view* - to help develop a more rational intuition.
 
-\* indicates my book recommendation.
+\* indicates book recommendation.
 
 ## 2022
 
-* Exercised*
-* Attached* by Amir Levine and Rachel Heller
+* *Exercised
+* *Attached by Amir Levine and Rachel Heller
 
 ## 2021
 
@@ -27,15 +27,15 @@ This page lists some of the books I've read. My goals for reading books include:
 * Chips and Change: How Crisis Reshapes the Semiconductor Industry
 * Ageless: The New Science of Getting Older Without Getting Old
 * The Code Breaker
-* Hidden Valley Road*
-* Think Again: The Power of Knowing What You Don't Know*
+* *Hidden Valley Road
+* *Think Again: The Power of Knowing What You Don't Know
 * The Address Book: What Street Addresses Reveal About Identity, Race, Wealth, and Power
 
 ## 2020
 
 * Together: The Healing Power of Human Connection in a Sometimes Lonely World by Vivek Murthy
 * Solutions and Other Problems by Allie Brosh
-* The Center Cannot Hold: My Journey Through Madness* by Elyn Saks
+* *The Center Cannot Hold: My Journey Through Madness by Elyn Saks
 * The Disordered Mind
 * Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions
 * Man's Search for Meaning
@@ -45,19 +45,19 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2019
 
-* Why We Sleep*
-* Quiet*
+* *Why We Sleep
+* *Quiet
 * Theodore Rex
 * The Rise of Theodore Roosevelt
 * Education
-* The Body Keeps The Score*
+* *The Body Keeps The Score
 * Nonviolent Communication
 * Becoming
 * Shoe Dog: A Memoir by the Creator of Nike
-* Born a Crime*
+* *Born a Crime
 * Age of Ambition: Chasing Fortune, Truth, and Faith in the New China
 * The Rise and Fall of American Growth
-* Nudge*
+* *Nudge
 
 ## 2018
 
@@ -71,7 +71,7 @@ This page lists some of the books I've read. My goals for reading books include:
 * Thinking in Bets by Annie Duke
 * Benjamin Franklin: An American Life
 * Zero to One
-* I Contain Multitudes*
+* *I Contain Multitudes
 * Hyperbole and a Half
 * An Unquiet Mind
 * Principles: Life and Work
@@ -98,7 +98,7 @@ This page lists some of the books I've read. My goals for reading books include:
 * Learning from Shenzhen: China's Post-Mao Experiment from Special Zone to Model City
 * India After Gandhi
 * Elon Musk
-* Sapiens*
+* *Sapiens
 * [Why Nations Fail](/books/why_nations_fail)
 * Modern Romance (Audiobook)
 * Pitch Anything
@@ -107,14 +107,14 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2016
 
-* [The Vital Question*](/books/vital_question)
+* *[The Vital Question](/books/vital_question)
 * The Checklist Manifesto
-* Thinking Fast and Slow*
-* The Emperor of All Maladies*
+* *Thinking Fast and Slow
+* *The Emperor of All Maladies
 * When Breath Becomes Air
 * The Gene
 * Godel, Escher, Bach
-* Being Mortal*
+* *Being Mortal
 * The Power of Habit
 
 ## 2015
@@ -166,4 +166,4 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2003
 
-* My Experiments With Truth* (Gujarati) - [I mention it in this medium.com post](https://medium.com/@hardikp/how-gandhi-brought-changes-in-himself-and-his-followers-1c1bed51c6aa)
+* *My Experiments With Truth (Gujarati) - [I mention it in this medium.com post](https://medium.com/@hardikp/how-gandhi-brought-changes-in-himself-and-his-followers-1c1bed51c6aa)
