@@ -43,12 +43,24 @@ Modest levels of physical activity dampen levels of chronic inflammation, includ
 
 <img src="/assets/booknotes/2022_exercised/glycolysis.jpg">
 
+TODO
+
 ## Strength
+
+TODO
 
 ## Walking
 
+TODO
+
 ## Running
+
+TODO
 
 ## Age
 
+TODO
+
 ## Exercise and Disease
+
+TODO
