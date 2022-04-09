@@ -18,3 +18,35 @@ This book helps answer many crucial questions surrounding exercise:
 Yet, some of the unanswered questions for me are:
 * Is it okay to exercise 150 mins only on weekends and have sedentary lifestyle during weekdays? How good/bad is it compared to doing daily exercise totaling up to 150 mins each week?
 * What physical benefits does Yoga provide? Is it complementary to cardio? If so, in what way?
+
+## Sitting
+
+Prolonged uninterrupted sitting:
+* Elevates levels of sugar and fat in the bloodstream.
+* **May trigger chronic inflammation** by allowing muscles to remain persistently inactive - this is the most harmful one.
+
+There are 2 main types of fat:
+* Subcutaneous fat (SCF) - fat in the skin, hair, and nails.
+* Visceral fat (VCF) - fat in the blood vessels. It usually surrounds the organs in the belly. This is worse because it is more likely to trigger inflammation.
+
+Muscles function as glands, synthesizing and releasing dozens of messenger proteins (myokines) with important roles. Myokines influence metabolism, circulation, and bones. Myokines help control inflammation.
+
+Modest levels of physical activity dampen levels of chronic inflammation, including in obese people.
+
+## Sleep
+
+**6.5 to 7 hours of sleep** is optimal:
+* Less than 6.5 hours of sleep is linked to lower longevity.
+* More than 7 hours of sleep also results in reduced longevity.
+
+## Speed
+
+## Strength
+
+## Walking
+
+## Running
+
+## Age
+
+## Exercise and Disease
