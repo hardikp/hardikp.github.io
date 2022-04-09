@@ -13,8 +13,10 @@ I like to read **non-fiction books**. My goals for reading books include:
 I am incredibly slow at reading, but really fast at understanding concepts. So, I prefer to read books that contain
 a lot more information.
 
-## Current
+## 2022
 
+1. Exercised
+1. Attached by Amir Levine and Rachel Heller
 
 ## 2021
 
@@ -64,15 +66,15 @@ Started but abandoned:
 
 ## 2018
 
-* Pacific: Silicon Chips and Surfboards, Coral Reefs and Atom Bombs, Brutal Dictators, Fading Empires, and the Coming Collision of the World's Superpowers - [amzn](https://www.amazon.com/Pacific-Silicon-Surfboards-Dictators-Empires/dp/0062315420)
-* Designing Distributed Systems - [O'Reilly](http://shop.oreilly.com/product/0636920072768.do)
-* Negotiation (Harvard Business Essentials Series) - [amzn](https://www.amazon.com/Negotiation-Harvard-Business-Essentials-Michael/dp/1591391113)
-* Manager's Path - [amzn](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
-* Measure What Matters - [amzn](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
-* Enlightenment Now: The Case for Reason, Science, Humanism, and Progress - [amzn](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570)
-* The Drama of the Gifted Child - [amzn](https://www.amazon.com/Drama-Gifted-Child-Search-Revised/dp/0465016901)
-* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts - [amzn](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355)
-* Benjamin Franklin: An American Life - [amzn](https://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X)
+* Pacific: Silicon Chips and Surfboards, Coral Reefs and Atom Bombs, Brutal Dictators, Fading Empires, and the Coming Collision of the World's Superpowers
+* Designing Distributed Systems
+* Negotiation (Harvard Business Essentials Series)
+* Manager's Path
+* Measure What Matters
+* Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
+* The Drama of the Gifted Child
+* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts
+* Benjamin Franklin: An American Life
 * Zero to One
 * I Contain Multitudes
 * Hyperbole and a Half
