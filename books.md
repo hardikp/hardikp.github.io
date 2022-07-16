@@ -14,6 +14,8 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2022
 
+* How Not to Die
+* The Body: A Guide for Occupants
 * *[Exercised](/books/2022_exercised)
 * *Attached by Amir Levine and Rachel Heller
 
