@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2022
 
+* Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World
 * How Not to Die
 * The Body: A Guide for Occupants
 * *[Exercised](/books/2022_exercised)
