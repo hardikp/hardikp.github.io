@@ -8,7 +8,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 * *Satisfying curiosity*
 * *Understanding the world around us*
-* *Develop an informed world view* - to help develop a more rational intuition.
+* *Develop an informed world view*
 
 \* indicates book recommendation.
 
