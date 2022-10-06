@@ -1,7 +1,7 @@
 ---
 layout: simple_post
 title: Book notes - The Psychology of Money
-permalink: /books/2022_psychology/
+permalink: /books/2022_money_psychology/
 ---
 
 A lot of insights from the book caught my attention. The book is very accessible. Some highlights that I found interesting:

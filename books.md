@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2022
 
+* Immune by Philipp Dettmer
 * *[The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness](/books/2022_money_psychology)
 * Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World
 * How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
