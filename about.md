@@ -12,7 +12,6 @@ I received my BS and MS in Computer Science from [IIT Kanpur](https://www.cse.ii
 
 Links:
 
-* Sketches and comics - [https://sketches.hardikp.com](https://sketches.hardikp.com)
 * I tweet/retweet sometimes - [https://twitter.com/hardikp](https://twitter.com/hardikp).
 * [Github](https://github.com/hardikp)
 * [Linkedin](https://www.linkedin.com/in/hardikp12)
