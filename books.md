@@ -14,6 +14,8 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2022
 
+* How to Talk so Little Kids Will Listen
+* The Brain and Pain: Breakthroughs in Neuroscience
 * Immune by Philipp Dettmer
 * *[The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness](/books/2022_money_psychology)
 * Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World
