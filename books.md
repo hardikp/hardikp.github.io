@@ -12,6 +12,12 @@ This page lists some of the books I've read. My goals for reading books include:
 
 \* indicates book recommendation.
 
+## 2023
+
+* What to Expect the First Year by Heidi Murkoff
+* Cribsheet by Emily Oster
+* Expecting Better by Emily Oster
+
 ## 2022
 
 * How to Talk so Little Kids Will Listen
