@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* Atomic Habits by James Clear
 * What to Expect the First Year by Heidi Murkoff
 * Cribsheet by Emily Oster
 * Expecting Better by Emily Oster
@@ -32,6 +33,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2021
 
+* Self-Compassion: The Proven Power of Being Kind to Yourself
 * Psychiatry and its Discontents by Andrew Scull
 * Aroused by Randi Hutter Epstein
 * How Innovation Works by Matt Ridley
