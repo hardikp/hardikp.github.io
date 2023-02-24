@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* Metabolical by Robert Lustig 
 * Atomic Habits by James Clear
 * What to Expect the First Year by Heidi Murkoff
 * Cribsheet by Emily Oster
