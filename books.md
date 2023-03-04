@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* Hooked: Food, Free Will, and How the Food Giants Exploit Our Addictions
 * Metabolical by Robert Lustig 
 * Atomic Habits by James Clear
 * What to Expect the First Year by Heidi Murkoff
