@@ -14,7 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
-* How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence
+* How to Change Your Mind by Michael Pollan
 * The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind
 * Hooked: Food, Free Will, and How the Food Giants Exploit Our Addictions
 * Metabolical by Robert Lustig 
