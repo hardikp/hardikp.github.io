@@ -16,7 +16,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 * How to Talk So Teens Will Listen and Listen So Teens Will
 * How to Change Your Mind by Michael Pollan
-* The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind
+* *The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind
 * Hooked: Food, Free Will, and How the Food Giants Exploit Our Addictions
 * Metabolical by Robert Lustig
 * The Montessori Baby: A Parent's Guide to Nurturing Your Baby with Love, Respect, and Understanding
