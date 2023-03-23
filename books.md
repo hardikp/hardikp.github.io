@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* The Self-Driven Child: The Science and Sense of Giving Your Kids More Control Over Their Lives
 * How to Talk So Teens Will Listen and Listen So Teens Will
 * How to Change Your Mind by Michael Pollan
 * *The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind
