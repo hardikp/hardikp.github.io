@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* I'm Glad My Mom Died
 * Prepared: What Kids Need for a Fulfilled Life
 * The Self-Driven Child: The Science and Sense of Giving Your Kids More Control Over Their Lives
 * How to Talk So Teens Will Listen and Listen So Teens Will
