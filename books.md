@@ -14,6 +14,8 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* *How to Talk So Kids Will Listen & Listen So Kids Will Talk
+* The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
 * I'm Glad My Mom Died
 * The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
 * Prepared: What Kids Need for a Fulfilled Life
