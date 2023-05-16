@@ -16,7 +16,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 * *Good Inside: A Practical Guide to Becoming the Parent You Want to Be
 * *How to Talk So Kids Will Listen & Listen So Kids Will Talk
-* The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
+* The Family Firm: A Data-Driven Guide to Better Decision Making in the Early School Years
 * I'm Glad My Mom Died
 * The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
 * Prepared: What Kids Need for a Fulfilled Life
