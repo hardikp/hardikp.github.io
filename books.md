@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* What My Bones Know: A Memoir of Healing from Complex Trauma by Stephanie Foo
 * Acceptance by Emi Nietfeld
 * Young Forever by Mark Hyman
 * *Good Inside: A Practical Guide to Becoming the Parent You Want to Be
