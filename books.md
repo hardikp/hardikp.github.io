@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* Acceptance by Emi Nietfeld
 * Young Forever by Mark Hyman
 * *Good Inside: A Practical Guide to Becoming the Parent You Want to Be
 * *How to Talk So Kids Will Listen & Listen So Kids Will Talk
