@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* The Song of the Cell by Siddhartha Mukherjee
 * What My Bones Know: A Memoir of Healing from Complex Trauma by Stephanie Foo
 * Acceptance by Emi Nietfeld
 * Young Forever by Mark Hyman
