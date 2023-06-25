@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+* The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture
 * Strength in Stillness: The Power of Transcendental Meditation
 * Catching the Big Fish: Meditation, Consciousness, and Creativity
 * The Song of the Cell by Siddhartha Mukherjee
