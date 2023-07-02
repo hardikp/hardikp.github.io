@@ -14,30 +14,30 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
-* The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture
-* Strength in Stillness: The Power of Transcendental Meditation
-* Catching the Big Fish: Meditation, Consciousness, and Creativity
-* The Song of the Cell by Siddhartha Mukherjee
-* What My Bones Know: A Memoir of Healing from Complex Trauma by Stephanie Foo
-* Acceptance by Emi Nietfeld
-* Young Forever by Mark Hyman
-* *Good Inside: A Practical Guide to Becoming the Parent You Want to Be
-* *How to Talk So Kids Will Listen & Listen So Kids Will Talk
-* The Family Firm: A Data-Driven Guide to Better Decision Making in the Early School Years
-* I'm Glad My Mom Died
-* The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
-* Prepared: What Kids Need for a Fulfilled Life
-* The Self-Driven Child: The Science and Sense of Giving Your Kids More Control Over Their Lives
-* How to Talk So Teens Will Listen and Listen So Teens Will
-* How to Change Your Mind by Michael Pollan
-* *The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind
-* Hooked: Food, Free Will, and How the Food Giants Exploit Our Addictions
-* Metabolical by Robert Lustig
-* The Montessori Baby: A Parent's Guide to Nurturing Your Baby with Love, Respect, and Understanding
-* Atomic Habits by James Clear
-* What to Expect the First Year by Heidi Murkoff
-* Cribsheet by Emily Oster
-* Expecting Better by Emily Oster
+1. The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture
+1. Strength in Stillness: The Power of Transcendental Meditation
+1. Catching the Big Fish: Meditation, Consciousness, and Creativity
+1. The Song of the Cell by Siddhartha Mukherjee
+1. What My Bones Know: A Memoir of Healing from Complex Trauma by Stephanie Foo
+1. Acceptance by Emi Nietfeld
+1. Young Forever by Mark Hyman
+1. *Good Inside: A Practical Guide to Becoming the Parent You Want to Be
+1. *How to Talk So Kids Will Listen & Listen So Kids Will Talk
+1. The Family Firm: A Data-Driven Guide to Better Decision Making in the Early School Years
+1. I'm Glad My Mom Died
+1. The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
+1. Prepared: What Kids Need for a Fulfilled Life
+1. The Self-Driven Child: The Science and Sense of Giving Your Kids More Control Over Their Lives
+1. How to Talk So Teens Will Listen and Listen So Teens Will
+1. How to Change Your Mind by Michael Pollan
+1. *The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind
+1. Hooked: Food, Free Will, and How the Food Giants Exploit Our Addictions
+1. Metabolical by Robert Lustig
+1. The Montessori Baby: A Parent's Guide to Nurturing Your Baby with Love, Respect, and Understanding
+1. Atomic Habits by James Clear
+1. What to Expect the First Year by Heidi Murkoff
+1. Cribsheet by Emily Oster
+1. Expecting Better by Emily Oster
 
 ## 2022
 
