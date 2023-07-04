@@ -14,6 +14,9 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+1. Finding the Mother Tree by Suzanne Simard
+1. Crying in H Mart by Michelle Zauner
+1. Leonardo da Vinci by Walter Isaacson
 1. The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture
 1. Strength in Stillness: The Power of Transcendental Meditation
 1. Catching the Big Fish: Meditation, Consciousness, and Creativity
@@ -26,6 +29,7 @@ This page lists some of the books I've read. My goals for reading books include:
 1. The Family Firm: A Data-Driven Guide to Better Decision Making in the Early School Years
 1. I'm Glad My Mom Died
 1. The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
+1. The Scaffold Effect: Raising Resilient, Self-Reliant, and Secure Kids in an Age of Anxiety
 1. Prepared: What Kids Need for a Fulfilled Life
 1. The Self-Driven Child: The Science and Sense of Giving Your Kids More Control Over Their Lives
 1. How to Talk So Teens Will Listen and Listen So Teens Will
