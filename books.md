@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+1. The Color of Law: A Forgotten History of How Our Government Segregated America
 1. Finding the Mother Tree by Suzanne Simard
 1. Crying in H Mart by Michelle Zauner
 1. Leonardo da Vinci by Walter Isaacson
