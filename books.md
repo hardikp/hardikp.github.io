@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+1. The Diary of a Young Girl by Anne Frank
 1. Ultra-Processed People by Chris van Tulleken
 1. *Mindset: The New Psychology of Success by Carol Dweck
 1. The Color of Law: A Forgotten History of How Our Government Segregated America
