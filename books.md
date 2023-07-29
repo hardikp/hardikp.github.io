@@ -71,7 +71,7 @@ This page lists some of the books I've read. My goals for reading books include:
 * Subliminal: How Your Unconscious Mind Rules Your Behavior
 * Chips and Change: How Crisis Reshapes the Semiconductor Industry
 * Ageless: The New Science of Getting Older Without Getting Old
-* The Code Breaker
+* The Code Breaker by Walter Isaacson
 * *Hidden Valley Road
 * *Think Again: The Power of Knowing What You Don't Know
 * The Address Book: What Street Addresses Reveal About Identity, Race, Wealth, and Power
@@ -182,7 +182,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2012
 
-* Steve Jobs
+* Steve Jobs by Walter Isaacson
 
 ## 2011
 
