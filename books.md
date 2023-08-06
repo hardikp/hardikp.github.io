@@ -15,6 +15,7 @@ This page lists some of the books I've read. My goals for reading books include:
 ## 2023
 
 1. Guns, Germs, and Steel by Jared Diamond
+1. Breath: The New Science of a Lost Art by James Nestor
 1. How to Change: The Science of Getting from Where You Are to Where You Want to Be
 1. Einstein: His Life and Universe by Walter Isaacson
 1. *The Diary of a Young Girl by Anne Frank
