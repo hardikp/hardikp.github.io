@@ -15,6 +15,7 @@ This page lists some of the books I've read. My goals for reading books include:
 ## 2023
 
 1. Guns, Germs, and Steel by Jared Diamond
+1. The Glass Castle by Jeannette Walls
 1. Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke
 1. An Immense World by Ed Yong
 1. Breath: The New Science of a Lost Art by James Nestor
