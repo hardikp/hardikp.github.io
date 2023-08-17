@@ -32,7 +32,7 @@ This page lists some of the books I've read. My goals for reading books include:
 1. Strength in Stillness: The Power of Transcendental Meditation
 1. Catching the Big Fish: Meditation, Consciousness, and Creativity
 1. The Song of the Cell by Siddhartha Mukherjee
-1. What My Bones Know: A Memoir of Healing from Complex Trauma by Stephanie Foo
+1. *What My Bones Know: A Memoir of Healing from Complex Trauma by Stephanie Foo
 1. Acceptance by Emi Nietfeld
 1. Young Forever by Mark Hyman
 1. *Good Inside: A Practical Guide to Becoming the Parent You Want to Be
