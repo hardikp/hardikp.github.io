@@ -15,7 +15,7 @@ This page lists some of the books I've read. My goals for reading books include:
 ## 2023
 
 1. The Country of the Blind: A Memoir at the End of Sight
-1. Guns, Germs, and Steel by Jared Diamond
+1. *Guns, Germs, and Steel by Jared Diamond
 1. *The Forgotten Girls: A Memoir of Friendship and Lost Promise in Rural America by Monica Potts
 1. *Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke
 1. The Glass Castle by Jeannette Walls
