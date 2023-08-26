@@ -14,6 +14,9 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+1. Never Enough: When Achievement Culture Becomes Toxic-and What We Can Do About It by Jennifer Breheny Wallace
+1. Win Every Argument by Mehdi Hasan
+1. They Called Us Exceptional: And Other Lies That Raised Us by Prachi Gupta
 1. The Country of the Blind: A Memoir at the End of Sight
 1. *Guns, Germs, and Steel by Jared Diamond
 1. *The Forgotten Girls: A Memoir of Friendship and Lost Promise in Rural America by Monica Potts
