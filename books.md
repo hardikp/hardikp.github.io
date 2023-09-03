@@ -14,7 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
-1. The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents by Lisa Damour
+1. *The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents by Lisa Damour
 1. Never Enough: When Achievement Culture Becomes Toxic-and What We Can Do About It by Jennifer Breheny Wallace
 1. Win Every Argument by Mehdi Hasan
 1. *They Called Us Exceptional: And Other Lies That Raised Us by Prachi Gupta
