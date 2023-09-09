@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+1. Mott Street: A Chinese American Family's Story of Exclusion and Homecoming by Ava Chin
 1. *The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents by Lisa Damour
 1. Never Enough: When Achievement Culture Becomes Toxic-and What We Can Do About It by Jennifer Breheny Wallace
 1. Win Every Argument by Mehdi Hasan
