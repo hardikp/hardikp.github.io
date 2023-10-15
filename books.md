@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+1. Lifespan: Why We Age – and Why We Don't Have To by David Sinclair
 1. Outlive: The Science and Art of Longevity by Bill Gifford and Peter Attia
 1. Elon Musk by Walter Isaacson
 1. Mott Street: A Chinese American Family's Story of Exclusion and Homecoming by Ava Chin
