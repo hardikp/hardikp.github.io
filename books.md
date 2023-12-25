@@ -14,6 +14,9 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2023
 
+1. How Big Things Get Done: Lessons from the World's Top Project Manager by Bent Flyvbjerg and Dan Gardner
+1. Complex PTSD: From Surviving to Thriving by Pete Walker
+1. How Not to Age by Michael Greger
 1. Lifespan: Why We Age – and Why We Don't Have To by David Sinclair
 1. Outlive: The Science and Art of Longevity by Bill Gifford and Peter Attia
 1. Elon Musk by Walter Isaacson
