@@ -13,7 +13,7 @@ Following instructions have been tested on ubuntu 20.04:
     ```
 2. Install jekyll and bundler gems:
     ```shell
-    sudo gem install jekyll bundler github-pages
+    sudo gem install jekyll bundler github-pages webrick
     ```
 3. Build the site and make it available on a local server:
     ```shell
