@@ -12,6 +12,10 @@ This page lists some of the books I've read. My goals for reading books include:
 
 \* indicates book recommendation.
 
+## 2024
+
+1. *Same as Ever: Timeless Lessons on Risk, Opportunity and Living a Good Life by Morgan Housel
+
 ## 2023
 
 1. How Big Things Get Done: Lessons from the World's Top Project Manager by Bent Flyvbjerg and Dan Gardner
