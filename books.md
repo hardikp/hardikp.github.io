@@ -14,6 +14,9 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2024
 
+1. Difficult Conversations: How to Discuss What Matters Most by Bruce Patton, Douglas Stone, and Sheila Heen
+1. Fight Right: How Successful Couples Turn Conflict Into Connection
+1. Hunt, Gather, Parent: What Ancient Cultures Can Teach Us About the Lost Art of Raising Happy, Helpful Little Humans
 1. *Same as Ever: Timeless Lessons on Risk, Opportunity and Living a Good Life by Morgan Housel
 
 ## 2023
