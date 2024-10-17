@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2024
 
+1. The Book You Wish Your Parents Had Read: (And Your Children Will Be Glad That You Did) by Philippa Perry
 1. Difficult Conversations: How to Discuss What Matters Most by Bruce Patton, Douglas Stone, and Sheila Heen
 1. Fight Right: How Successful Couples Turn Conflict Into Connection
 1. Hunt, Gather, Parent: What Ancient Cultures Can Teach Us About the Lost Art of Raising Happy, Helpful Little Humans
