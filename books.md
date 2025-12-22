@@ -12,6 +12,11 @@ This page lists some of the books I've read. My goals for reading books include:
 
 \* indicates book recommendation.
 
+## 2025
+
+1. Chip War: The Fight for the World's Most Critical Technology by Chris Miller
+1. The Anxious Generation by Jonathan Haidt
+
 ## 2024
 
 1. The Book You Wish Your Parents Had Read: (And Your Children Will Be Glad That You Did) by Philippa Perry
