@@ -12,6 +12,10 @@ This page lists some of the books I've read. My goals for reading books include:
 
 \* indicates book recommendation.
 
+## 2026
+
+1. Enshittification: Why Everything Suddenly Got Worse and What to Do About It by Cory Doctorow
+
 ## 2025
 
 1. Chip War: The Fight for the World's Most Critical Technology by Chris Miller
