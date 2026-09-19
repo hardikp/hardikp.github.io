@@ -14,6 +14,8 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2026
 
+1. Boys Adrift: The Five Factors Driving the Growing Epidemic of Unmotivated Boys and Underachieving Young Men by Leonard Sax
+1. Revenge of the Tipping Point by Malcolm Gladwell
 1. Never Split the Difference: Negotiating As If Your Life Depended On It by Christopher Voss
 1. Enshittification: Why Everything Suddenly Got Worse and What to Do About It by Cory Doctorow
 
