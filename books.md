@@ -14,6 +14,7 @@ This page lists some of the books I've read. My goals for reading books include:
 
 ## 2026
 
+1. Decoding Boys: New Science Behind the Subtle Art of Raising Sons by Cara Natterson
 1. The Teenage Brain: A Neuroscientist's Survival Guide to Raising Adolescents and Young Adults by Frances E. Jensen
 1. Boys Adrift: The Five Factors Driving the Growing Epidemic of Unmotivated Boys and Underachieving Young Men by Leonard Sax
 1. Revenge of the Tipping Point by Malcolm Gladwell
